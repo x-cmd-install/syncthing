@@ -5,13 +5,13 @@ about:
   head: ed8d87f
   archived: false
   latestVersion: "v2.1.4-rc.2"
-  collectedAt: 2026-09-08T02:05:17Z
+  collectedAt: 2026-09-08T04:48:55Z
 timeline:
   created: 2013-11-26
   lastCommit: 2026-09-07
   lastRelease: 2026-08-24
 popularity:
-  star: 88376
+  star: 88378
   watcher: 1053
   fork: 5456
   release: 480
@@ -87,7 +87,7 @@ total:
   commit: 8187
 ---
 path: /home/runner/.x-repo/github.com/syncthing/syncthing
-collectedAt: 2026-09-08T02:05:28Z
+collectedAt: 2026-09-08T04:49:07Z
 loc:
   Go:
     code: 93204
