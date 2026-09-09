@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.5"
   latestRelease: "v2.1.5"
   latestPrerelease: "v2.1.4-rc.2"
-  collectedAt: 2026-09-09T04:59:27Z
+  collectedAt: 2026-09-09T19:06:05Z
 timeline:
   created: 2013-11-26
   lastCommit: 2026-09-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-24
 popularity:
-  star: 88405
+  star: 88428
   watcher: 1053
-  fork: 5457
+  fork: 5459
   release: 481
   contributor: 356
   pullRequest: 4799
-  issue: 5951
+  issue: 5952
 language:
   Go: 2947656
   HTML: 247880
@@ -39,7 +39,7 @@ recent:
     release: 3
     mergedPR: 3
     openPR: 1
-    closedIssue: 11
+    closedIssue: 12
     openIssue: 10
     commit: 12
   last60d:
@@ -47,7 +47,7 @@ recent:
     release: 7
     mergedPR: 26
     openPR: 7
-    closedIssue: 26
+    closedIssue: 27
     openIssue: 16
     commit: 45
   last90d:
@@ -55,7 +55,7 @@ recent:
     release: 12
     mergedPR: 41
     openPR: 8
-    closedIssue: 42
+    closedIssue: 43
     openIssue: 19
     commit: 60
   last180d:
@@ -63,7 +63,7 @@ recent:
     release: 19
     mergedPR: 85
     openPR: 10
-    closedIssue: 81
+    closedIssue: 82
     openIssue: 25
     commit: 148
   last360d:
@@ -71,7 +71,7 @@ recent:
     release: 33
     mergedPR: 132
     openPR: 12
-    closedIssue: 182
+    closedIssue: 183
     openIssue: 56
     commit: 228
   last720d:
@@ -79,19 +79,19 @@ recent:
     release: 99
     mergedPR: 388
     openPR: 17
-    closedIssue: 410
+    closedIssue: 411
     openIssue: 90
     commit: 684
 total:
   release: 481
   mergedPR: 2927
   openPR: 18
-  closedIssue: 5587
+  closedIssue: 5588
   openIssue: 364
   commit: 8191
 ---
 path: /home/runner/.x-repo/github.com/syncthing/syncthing
-collectedAt: 2026-09-09T04:59:41Z
+collectedAt: 2026-09-09T19:06:20Z
 loc:
   Go:
     code: 93229
