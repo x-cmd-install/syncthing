@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11029,
       "digest": "sha256:250e5b306fd2c9b36d3502466cb6715e79fd73bfc985d0c36ec219c8f79aebc9",
-      "download_count": 400,
+      "download_count": 403,
       "created_at": "2026-09-08T07:34:50Z",
       "updated_at": "2026-09-08T07:34:50Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/sha256sum.txt.asc"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14703431,
       "digest": "sha256:59191f02127004287b801243d3869c21e43552d7f2bb7c040be7ff4ef02196a0",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-09-08T07:34:51Z",
       "updated_at": "2026-09-08T07:34:52Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-illumos-amd64-v2.1.5.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11389832,
       "digest": "sha256:f8bb9f6714876b3bc3004ff09c70fc42fcf8884cf60ed10231ce131c9e0f0df0",
-      "download_count": 116,
+      "download_count": 117,
       "created_at": "2026-09-08T07:34:51Z",
       "updated_at": "2026-09-08T07:34:52Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-386-v2.1.5.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11782578,
       "digest": "sha256:3d222b609f7ab2944e02748cb10488b4160d446b49e0eafc107ef2a525ab3486",
-      "download_count": 1360,
+      "download_count": 1375,
       "created_at": "2026-09-08T07:34:52Z",
       "updated_at": "2026-09-08T07:34:53Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-amd64-v2.1.5.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10837698,
       "digest": "sha256:3666f3069feeee3651e185f867759206059755101797bdd69ea5317610130855",
-      "download_count": 316,
+      "download_count": 317,
       "created_at": "2026-09-08T07:34:52Z",
       "updated_at": "2026-09-08T07:34:53Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-arm64-v2.1.5.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 12419653,
       "digest": "sha256:f4535e479472a1ae43d3e6ffc4bcfc7651179e948387c08f3696847d142b62c7",
-      "download_count": 180,
+      "download_count": 182,
       "created_at": "2026-09-08T07:34:56Z",
       "updated_at": "2026-09-08T07:34:57Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-macos-amd64-v2.1.5.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 11187879,
       "digest": "sha256:4a3153cce6f3bdc6290824e409b1622c3b78ad8b8a8b2fc846c0061b61e44d4a",
-      "download_count": 366,
+      "download_count": 370,
       "created_at": "2026-09-08T07:34:56Z",
       "updated_at": "2026-09-08T07:34:57Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-macos-arm64-v2.1.5.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 23570748,
       "digest": "sha256:e4ed8fc7cd7570f77293783adbccacd1abc822a5905a50e90ab38dc55a813c54",
-      "download_count": 222,
+      "download_count": 223,
       "created_at": "2026-09-08T07:34:56Z",
       "updated_at": "2026-09-08T07:34:57Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-macos-universal-v2.1.5.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 43177700,
       "digest": "sha256:11f129cff64fb4ba7cda33f9dae3a39eab8738a60bbbe8813cadecfdc94bd13d",
-      "download_count": 279,
+      "download_count": 280,
       "created_at": "2026-09-08T07:34:55Z",
       "updated_at": "2026-09-08T07:34:57Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-source-v2.1.5.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 11720125,
       "digest": "sha256:c532e971d91035f73c176a3b0ebdb07785b16e292b10f718e391ad211bb36a2c",
-      "download_count": 377,
+      "download_count": 379,
       "created_at": "2026-09-08T07:34:56Z",
       "updated_at": "2026-09-08T07:34:57Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-386-v2.1.5.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 11975789,
       "digest": "sha256:39571e4d0900c2a2cab14c0b170f49751340a869e49734ccc8079d9b98a7974b",
-      "download_count": 9296,
+      "download_count": 9373,
       "created_at": "2026-09-08T07:34:57Z",
       "updated_at": "2026-09-08T07:34:58Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-amd64-v2.1.5.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 10893238,
       "digest": "sha256:082de37dc99621064bde8378ea26b28378f312f0a4147f52844ce7425f1baab0",
-      "download_count": 249,
+      "download_count": 250,
       "created_at": "2026-09-08T07:34:57Z",
       "updated_at": "2026-09-08T07:34:58Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-arm64-v2.1.5.zip"
@@ -1302,14 +1302,14 @@
   "body": "## Major changes in 2.1\n\n- Devices and folders can now be grouped in the GUI by setting the new\n  `group` attribute.\n\n- HTTP and HTTPS proxies with support for CONNECT can now be used, in\n  addition to the existing support for SOCKS proxies (the environment\n  variable `all_proxy=https://...`).\n\n- Block indexing can be turned off for folders where it's more desirable to\n  optimise for reduced database size and overhead than minimal transfer\n  size (the `blockIndexing` attribute on folder configuration).\n\n- GUI login session duration can be configured to be longer or shorter than\n  the default one week, or set to infinitely long. The cookie path can also\n  be adjusted. (The `sessionCookieDurationS` and `sessionCookiePath`\n  attributes in the GUI configuration.)\n\nThis release is also available as:\n\n* APT repository: https://apt.syncthing.net/\n\n* Docker image: `docker.io/syncthing/syncthing:2.1.5` or `ghcr.io/syncthing/syncthing:2.1.5`\n  (`{docker,ghcr}.io/syncthing/syncthing:2` to follow just the major version)\n\n**Full Changelog**: https://github.com/syncthing/syncthing/compare/v2.1.4...v2.1.5",
   "reactions": {
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/384523550/reactions",
-    "total_count": 26,
-    "+1": 11,
+    "total_count": 31,
+    "+1": 12,
     "-1": 0,
     "laugh": 0,
-    "hooray": 6,
+    "hooray": 7,
     "confused": 0,
-    "heart": 7,
-    "rocket": 0,
-    "eyes": 2
+    "heart": 8,
+    "rocket": 1,
+    "eyes": 3
   }
 }
