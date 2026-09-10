@@ -4,7 +4,7 @@
 
 Open Source Continuous File Synchronization
 
-![syncthing](https://repo.x-cmd.io/syncthing.svg)
+![syncthing](https://repo.x-cmd.io/syncthing.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,50 @@ x install syncthing
 - **最新版本**: `v2.1.5` (2026-09-08)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 35 个
-- **发布时间**: 2026-09-08T07:35:00Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [compat.json](https://github.com/syncthing/syncthing/releases/download/v2.1.5/compat.json) | 112 B | `other` |
+| [sha1sum.txt.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.5/sha1sum.txt.asc) | 8.6 KiB | `other` |
+| [sha256sum.txt.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.5/sha256sum.txt.asc) | 10.8 KiB | `other` |
+| [syncthing-freebsd-386-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-freebsd-386-v2.1.5.tar.gz) | 12.0 MiB | `native/unknown` |
+| [syncthing-freebsd-amd64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-freebsd-amd64-v2.1.5.tar.gz) | 12.4 MiB | `native/linux/x64` |
+| [syncthing-freebsd-arm-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-freebsd-arm-v2.1.5.tar.gz) | 11.9 MiB | `native/linux/arm` |
+| [syncthing-freebsd-arm64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-freebsd-arm64-v2.1.5.tar.gz) | 11.5 MiB | `native/linux/arm64` |
+| [syncthing-illumos-amd64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-illumos-amd64-v2.1.5.tar.gz) | 14.0 MiB | `native/linux/x64` |
+| [syncthing-linux-386-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-386-v2.1.5.tar.gz) | 10.9 MiB | `native/unknown` |
+| [syncthing-linux-amd64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-amd64-v2.1.5.tar.gz) | 11.2 MiB | `native/linux/x64` |
+| [syncthing-linux-arm-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-arm-v2.1.5.tar.gz) | 10.7 MiB | `native/linux/arm` |
+| [syncthing-linux-arm64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-arm64-v2.1.5.tar.gz) | 10.3 MiB | `native/linux/arm64` |
+| [syncthing-linux-loong64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-loong64-v2.1.5.tar.gz) | 10.8 MiB | `native/unknown` |
+| [syncthing-linux-mips-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-mips-v2.1.5.tar.gz) | 10.7 MiB | `native/unknown` |
+| [syncthing-linux-mips64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-mips64-v2.1.5.tar.gz) | 11.1 MiB | `native/unknown` |
+| [syncthing-linux-mips64le-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-mips64le-v2.1.5.tar.gz) | 10.9 MiB | `native/unknown` |
+| [syncthing-linux-mipsle-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-mipsle-v2.1.5.tar.gz) | 10.5 MiB | `native/unknown` |
+| [syncthing-linux-ppc64le-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-ppc64le-v2.1.5.tar.gz) | 10.5 MiB | `native/unknown` |
+| [syncthing-linux-riscv64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-riscv64-v2.1.5.tar.gz) | 10.7 MiB | `native/linux/riscv64` |
+| [syncthing-linux-s390x-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-linux-s390x-v2.1.5.tar.gz) | 11.1 MiB | `native/unknown` |
+| [syncthing-macos-amd64-v2.1.5.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-macos-amd64-v2.1.5.zip) | 11.8 MiB | `native/darwin/x64` |
+| [syncthing-macos-arm64-v2.1.5.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-macos-arm64-v2.1.5.zip) | 10.7 MiB | `native/darwin/arm64` |
+| [syncthing-macos-universal-v2.1.5.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-macos-universal-v2.1.5.zip) | 22.5 MiB | `native/darwin/x64` |
+| [syncthing-netbsd-amd64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-netbsd-amd64-v2.1.5.tar.gz) | 12.4 MiB | `native/linux/x64` |
+| [syncthing-openbsd-amd64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-openbsd-amd64-v2.1.5.tar.gz) | 12.4 MiB | `native/linux/x64` |
+| [syncthing-openbsd-arm64-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-openbsd-arm64-v2.1.5.tar.gz) | 11.5 MiB | `native/linux/arm64` |
+| [syncthing-source-v2.1.5.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-source-v2.1.5.tar.gz) | 41.2 MiB | `native/unknown` |
+| [syncthing-source-v2.1.5.tar.gz.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-source-v2.1.5.tar.gz.asc) | 1.4 KiB | `other` |
+| [syncthing-windows-386-v2.1.5.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-386-v2.1.5.zip) | 11.2 MiB | `native/win/x64` |
+| [syncthing-windows-amd64-v2.1.5.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-amd64-v2.1.5.zip) | 11.4 MiB | `native/win/x64` |
+| [syncthing-windows-arm64-v2.1.5.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-arm64-v2.1.5.zip) | 10.4 MiB | `native/win/arm64` |
+| [syncthing_2.1.5_amd64.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_amd64.deb) | 11.3 MiB | `runtime/deb/amd64` |
+| [syncthing_2.1.5_arm64.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_arm64.deb) | 10.4 MiB | `runtime/deb/arm64` |
+| [syncthing_2.1.5_armel.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_armel.deb) | 10.8 MiB | `other` |
+| [syncthing_2.1.5_armhf.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_armhf.deb) | 10.8 MiB | `runtime/deb/armhf` |
 
 ## 流行度
 
-- **Star**: 88,441 · **Fork**: 5,460 · **开放 issue**: 5,952 · **贡献者**: 356
+- **Star**: 88,453 · **Fork**: 5,462 · **开放 issue**: 5,952 · **贡献者**: 356
 
 ## 累计统计
 
@@ -72,4 +111,4 @@ syncthing 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:15:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:17Z._
