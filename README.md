@@ -12,6 +12,28 @@ Open Source Continuous File Synchronization
 x install syncthing
 ```
 
+## Code insight
+
+Total: **181,069** lines of code across **669** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 93,229 | 11,575 | 16,215 | 546 |
+| JavaScript | 40,162 | 22,378 | 7,584 | 37 |
+| Json | 26,443 | 0 | 0 | 58 |
+| Css | 10,572 | 181 | 315 | 13 |
+| Svg | 3,557 | 7 | 0 | 15 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.7 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/syncthing/syncthing>
@@ -23,6 +45,25 @@ x install syncthing
 - **Latest**: `v2.1.5` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 35
+
+## Popularity
+
+- **Stars**: 88,458 · **Forks**: 5,461 · **Open issues**: 5,952 · **Contributors**: 356
+
+## Totals (cumulative)
+
+- **Releases**: 481 · **Merged PRs**: 2927 · **Open PRs**: 18 · **Closed issues**: 5588 · **Open issues**: 364 · **Commits**: 8191
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 3 | 1 | 12 | 10 | 12 |
+| last60d | 2026-07-12 | 7 | 26 | 7 | 27 | 16 | 45 |
+| 90d | 2026-06-12 | 12 | 40 | 8 | 42 | 19 | 60 |
+| last180d | 2026-03-14 | 18 | 85 | 10 | 82 | 25 | 148 |
+| 360d | 2025-09-15 | 33 | 131 | 12 | 182 | 56 | 228 |
+| last720d | 2024-09-20 | 99 | 386 | 17 | 410 | 90 | 684 |
 
 ## Release assets
 
@@ -64,43 +105,24 @@ x install syncthing
 | [syncthing_2.1.5_armel.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_armel.deb) | 10.8 MiB | `other` |
 | [syncthing_2.1.5_armhf.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_armhf.deb) | 10.8 MiB | `runtime/deb/armhf` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 88,453 · **Forks**: 5,462 · **Open issues**: 5,952 · **Contributors**: 356
+Reported by **208** distros on [repology.org](https://repology.org/project/syncthing). **28** are ✅ on the latest upstream release, **157** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 481 · **Merged PRs**: 2927 · **Open PRs**: 18 · **Closed issues**: 5588 · **Open issues**: 364 · **Commits**: 8191
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 3 | 1 | 12 | 10 | 12 |
-| 90d | 2026-06-12 | 12 | 40 | 8 | 42 | 19 | 60 |
-| 360d | 2025-09-15 | 33 | 131 | 12 | 182 | 56 | 228 |
-
-## Code size
-
-Total: **181,069** lines of code across **669** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 93,229 | 11,575 | 16,215 | 546 |
-| JavaScript | 40,162 | 22,378 | 7,584 | 37 |
-| Json | 26,443 | 0 | 0 | 58 |
-| Css | 10,572 | 181 | 315 | 13 |
-| Svg | 3,557 | 7 | 0 | 15 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.7 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.29.5` | ⚠️ outdated |
+| Debian 14 | `1.29.5` | ⚠️ outdated |
+| Debian 13 | `1.29.5` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.29.5` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.27.2` | ⚠️ outdated |
+| Arch | `2.1.5` | ✅ latest |
+| Homebrew | `2.1.5` | ✅ latest |
+| Fedora rawhide | `2.1.3` | ⚠️ outdated |
+| Nix unstable | `2.1.3` | ⚠️ outdated |
+| Void | `2.1.5` | ✅ latest |
+| Alpine edge | `2.1.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.1.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -111,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:37:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:37:37Z._
