@@ -48,7 +48,7 @@ x install syncthing
 
 ## 流行度
 
-- **Star**: 88,462 · **Fork**: 5,464 · **开放 issue**: 5,952 · **贡献者**: 356
+- **Star**: 88,472 · **Fork**: 5,465 · **开放 issue**: 5,952 · **贡献者**: 356
 
 ## 累计统计
 
@@ -107,7 +107,7 @@ x install syncthing
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/syncthing) 上共有 **208** 个发行版报告此项目。**28** 个 ✅ 已是最新上游版本，**157** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/syncthing) 上共有 **208** 个发行版报告此项目。**37** 个 ✅ 已是最新上游版本，**148** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -117,11 +117,11 @@ x install syncthing
 | Ubuntu 26.04 LTS | `1.29.5` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.27.2` | ⚠️ outdated |
 | Arch | `2.1.5` | ✅ latest |
-| Homebrew | `2.1.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.1.3` | ⚠️ outdated |
 | Nix unstable | `2.1.3` | ⚠️ outdated |
 | Void | `2.1.5` | ✅ latest |
-| Alpine edge | `2.1.3` | ⚠️ outdated |
+| Alpine edge | `2.1.5` | ✅ latest |
 | openSUSE Tumbleweed | `2.1.3` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -133,4 +133,4 @@ syncthing 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T04:57:36Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:13:14Z._
