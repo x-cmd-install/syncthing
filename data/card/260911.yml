@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.5"
   latestRelease: "v2.1.5"
   latestPrerelease: "v2.1.4-rc.2"
-  collectedAt: 2026-09-11T04:57:15Z
+  collectedAt: 2026-09-11T20:12:46Z
 timeline:
   created: 2013-11-26
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-24
 popularity:
-  star: 88462
+  star: 88472
   watcher: 1053
-  fork: 5464
+  fork: 5465
   release: 481
   contributor: 356
   pullRequest: 4799
@@ -91,7 +91,7 @@ total:
   commit: 8191
 ---
 path: /home/runner/.x-repo/github.com/syncthing/syncthing
-collectedAt: 2026-09-11T04:57:28Z
+collectedAt: 2026-09-11T20:13:05Z
 loc:
   Go:
     code: 93229
