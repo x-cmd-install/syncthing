@@ -14,13 +14,13 @@ x install syncthing
 
 ## Code insight
 
-Total: **181,121** lines of code across **669** files in the top 5 languages.
+Total: **181,118** lines of code across **669** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 93,281 | 11,588 | 16,219 | 546 |
 | JavaScript | 40,162 | 22,378 | 7,584 | 37 |
-| Json | 26,443 | 0 | 0 | 58 |
+| Json | 26,440 | 0 | 0 | 58 |
 | Css | 10,572 | 181 | 315 | 13 |
 | Svg | 3,557 | 7 | 0 | 15 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.5` (2026-09-08)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 88,505 · **Forks**: 5,466 · **Open issues**: 5,953 · **Contributors**: 356
+- **Stars**: 88,544 · **Forks**: 5,467 · **Open issues**: 5,954 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 481 · **Merged PRs**: 2929 · **Open PRs**: 17 · **Closed issues**: 5590 · **Open issues**: 363 · **Commits**: 8194
+- **Releases**: 481 · **Merged PRs**: 2929 · **Open PRs**: 17 · **Closed issues**: 5590 · **Open issues**: 364 · **Commits**: 8195
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 5 | 0 | 11 | 7 | 15 |
-| last60d | 2026-07-15 | 7 | 27 | 6 | 28 | 14 | 48 |
-| 90d | 2026-06-15 | 10 | 39 | 7 | 41 | 18 | 63 |
-| last180d | 2026-03-17 | 18 | 86 | 9 | 83 | 24 | 151 |
-| 360d | 2025-09-18 | 33 | 129 | 11 | 184 | 55 | 231 |
-| last720d | 2024-09-23 | 99 | 380 | 16 | 408 | 89 | 680 |
+| 30d | 2026-08-15 | 3 | 5 | 0 | 10 | 8 | 9 |
+| last60d | 2026-07-16 | 7 | 26 | 5 | 26 | 15 | 40 |
+| 90d | 2026-06-16 | 10 | 39 | 7 | 40 | 19 | 61 |
+| last180d | 2026-03-18 | 18 | 86 | 9 | 83 | 25 | 150 |
+| 360d | 2025-09-19 | 33 | 129 | 11 | 184 | 56 | 226 |
+| last720d | 2024-09-24 | 99 | 380 | 16 | 407 | 90 | 679 |
 
 ## Release assets
 
@@ -105,25 +105,6 @@ Lowest-scoring checks:
 | [syncthing_2.1.5_armel.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_armel.deb) | 10.8 MiB | `other` |
 | [syncthing_2.1.5_armhf.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing_2.1.5_armhf.deb) | 10.8 MiB | `runtime/deb/armhf` |
 
-## Distribution status
-
-Reported by **208** distros on [repology.org](https://repology.org/project/syncthing). **38** are ✅ on the latest upstream release, **147** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.29.5` | ⚠️ outdated |
-| Debian 14 | `1.29.5` | ⚠️ outdated |
-| Debian 13 | `1.29.5` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.29.5` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.27.2` | ⚠️ outdated |
-| Arch | `2.1.5` | ✅ latest |
-| Homebrew | `2.1.5` | ✅ latest |
-| Fedora rawhide | `2.1.3` | ⚠️ outdated |
-| Nix unstable | `2.1.3` | ⚠️ outdated |
-| Void | `2.1.5` | ✅ latest |
-| Alpine edge | `2.1.5` | ✅ latest |
-| openSUSE Tumbleweed | `2.1.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `syncthing` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -133,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:11:55Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:10:14Z._
