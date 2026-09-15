@@ -14,11 +14,11 @@ x install syncthing
 
 ## Code insight
 
-Total: **181,118** lines of code across **669** files in the top 5 languages.
+Total: **181,114** lines of code across **669** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 93,281 | 11,588 | 16,219 | 546 |
+| Go | 93,277 | 11,587 | 16,218 | 546 |
 | JavaScript | 40,162 | 22,378 | 7,584 | 37 |
 | Json | 26,440 | 0 | 0 | 58 |
 | Css | 10,572 | 181 | 315 | 13 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 88,544 · **Forks**: 5,467 · **Open issues**: 5,954 · **Contributors**: 356
+- **Stars**: 88,587 · **Forks**: 5,471 · **Open issues**: 5,955 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 481 · **Merged PRs**: 2929 · **Open PRs**: 17 · **Closed issues**: 5590 · **Open issues**: 364 · **Commits**: 8195
+- **Releases**: 481 · **Merged PRs**: 2930 · **Open PRs**: 17 · **Closed issues**: 5590 · **Open issues**: 365 · **Commits**: 8196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 5 | 0 | 10 | 8 | 9 |
-| last60d | 2026-07-16 | 7 | 26 | 5 | 26 | 15 | 40 |
-| 90d | 2026-06-16 | 10 | 39 | 7 | 40 | 19 | 61 |
-| last180d | 2026-03-18 | 18 | 86 | 9 | 83 | 25 | 150 |
-| 360d | 2025-09-19 | 33 | 129 | 11 | 184 | 56 | 226 |
-| last720d | 2024-09-24 | 99 | 380 | 16 | 407 | 90 | 679 |
+| 30d | 2026-08-16 | 3 | 6 | 0 | 9 | 8 | 10 |
+| last60d | 2026-07-17 | 7 | 27 | 5 | 26 | 15 | 41 |
+| 90d | 2026-06-17 | 10 | 40 | 7 | 40 | 19 | 62 |
+| last180d | 2026-03-19 | 18 | 87 | 9 | 83 | 26 | 151 |
+| 360d | 2025-09-20 | 33 | 130 | 11 | 182 | 57 | 227 |
+| last720d | 2024-09-25 | 98 | 380 | 16 | 407 | 91 | 679 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:10:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:17:11Z._
