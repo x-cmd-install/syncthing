@@ -4,7 +4,7 @@
 
 Open Source Continuous File Synchronization
 
-![syncthing](https://repo.x-cmd.io/syncthing.svg)
+[![x-cmd/install — syncthing Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syncthing.svg)](https://x-cmd.com/install/syncthing)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 88,688 · **Forks**: 5,479 · **Open issues**: 5,959 · **Contributors**: 356
+- **Stars**: 88,787 · **Forks**: 5,486 · **Open issues**: 5,960 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 482 · **Merged PRs**: 2930 · **Open PRs**: 18 · **Closed issues**: 5591 · **Open issues**: 368 · **Commits**: 8196
+- **Releases**: 482 · **Merged PRs**: 2930 · **Open PRs**: 19 · **Closed issues**: 5592 · **Open issues**: 368 · **Commits**: 8196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 5 | 1 | 8 | 11 | 10 |
-| last60d | 2026-07-20 | 8 | 24 | 6 | 25 | 18 | 41 |
-| 90d | 2026-06-20 | 11 | 40 | 8 | 39 | 22 | 62 |
-| last180d | 2026-03-22 | 19 | 87 | 10 | 84 | 29 | 151 |
-| 360d | 2025-09-23 | 34 | 128 | 12 | 175 | 59 | 227 |
-| last720d | 2024-09-28 | 99 | 374 | 17 | 407 | 93 | 675 |
+| 30d | 2026-08-21 | 3 | 4 | 2 | 9 | 10 | 10 |
+| last60d | 2026-07-22 | 7 | 22 | 4 | 23 | 18 | 41 |
+| 90d | 2026-06-22 | 11 | 36 | 9 | 39 | 22 | 62 |
+| last180d | 2026-03-24 | 19 | 87 | 11 | 82 | 29 | 151 |
+| 360d | 2025-09-25 | 32 | 128 | 13 | 175 | 59 | 227 |
+| last720d | 2024-09-30 | 99 | 372 | 18 | 407 | 93 | 668 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:00:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:19:17Z._

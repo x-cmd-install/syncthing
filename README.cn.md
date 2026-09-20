@@ -4,7 +4,7 @@
 
 Open Source Continuous File Synchronization
 
-![syncthing](https://repo.x-cmd.io/syncthing.svg?lang=zh)
+[![x-cmd/install — syncthing Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syncthing.svg?lang=zh)](https://x-cmd.com/install/syncthing)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install syncthing
 
 ## 流行度
 
-- **Star**: 88,688 · **Fork**: 5,479 · **开放 issue**: 5,959 · **贡献者**: 356
+- **Star**: 88,787 · **Fork**: 5,486 · **开放 issue**: 5,960 · **贡献者**: 356
 
 ## 累计统计
 
-- **发布数**: 482 · **已合并 PR**: 2930 · **开放 PR**: 18 · **已关闭 issue**: 5591 · **开放 issue**: 368 · **提交数**: 8196
+- **发布数**: 482 · **已合并 PR**: 2930 · **开放 PR**: 19 · **已关闭 issue**: 5592 · **开放 issue**: 368 · **提交数**: 8196
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 5 | 1 | 8 | 11 | 10 |
-| last60d | 2026-07-20 | 8 | 24 | 6 | 25 | 18 | 41 |
-| 90d | 2026-06-20 | 11 | 40 | 8 | 39 | 22 | 62 |
-| last180d | 2026-03-22 | 19 | 87 | 10 | 84 | 29 | 151 |
-| 360d | 2025-09-23 | 34 | 128 | 12 | 175 | 59 | 227 |
-| last720d | 2024-09-28 | 99 | 374 | 17 | 407 | 93 | 675 |
+| 30d | 2026-08-21 | 3 | 4 | 2 | 9 | 10 | 10 |
+| last60d | 2026-07-22 | 7 | 22 | 4 | 23 | 18 | 41 |
+| 90d | 2026-06-22 | 11 | 36 | 9 | 39 | 22 | 62 |
+| last180d | 2026-03-24 | 19 | 87 | 11 | 82 | 29 | 151 |
+| 360d | 2025-09-25 | 32 | 128 | 13 | 175 | 59 | 227 |
+| last720d | 2024-09-30 | 99 | 372 | 18 | 407 | 93 | 668 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ syncthing 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:00:18Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:19:18Z._
