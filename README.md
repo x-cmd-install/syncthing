@@ -4,7 +4,7 @@
 
 Open Source Continuous File Synchronization
 
-[![x-cmd/install — syncthing Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syncthing.svg)](https://x-cmd.com/install/syncthing)
+[![x-cmd/install — syncthing Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/syncthing.svg)](https://x-cmd.com/install/syncthing)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install syncthing
 
 ## Code insight
 
-Total: **181,114** lines of code across **669** files in the top 5 languages.
+Total: **181,231** lines of code across **671** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 93,277 | 11,587 | 16,218 | 546 |
+| Go | 93,352 | 11,614 | 16,232 | 548 |
 | JavaScript | 40,162 | 22,378 | 7,584 | 37 |
 | Json | 26,440 | 0 | 0 | 58 |
-| Css | 10,572 | 181 | 315 | 13 |
+| Css | 10,614 | 182 | 325 | 13 |
 | Svg | 3,557 | 7 | 0 | 15 |
 
 ## OpenSSF Scorecard
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.6-rc.1` (2026-09-08)
-- **Last commit**: 2026-09-14
+- **Latest**: `v2.1.6-rc.3` (2026-09-08)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 88,827 · **Forks**: 5,489 · **Open issues**: 5,961 · **Contributors**: 356
+- **Stars**: 88,857 · **Forks**: 5,488 · **Open issues**: 5,962 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 482 · **Merged PRs**: 2930 · **Open PRs**: 19 · **Closed issues**: 5592 · **Open issues**: 369 · **Commits**: 8196
+- **Releases**: 483 · **Merged PRs**: 2933 · **Open PRs**: 16 · **Closed issues**: 5596 · **Open issues**: 366 · **Commits**: 8199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 3 | 2 | 9 | 11 | 7 |
-| last60d | 2026-07-24 | 7 | 20 | 4 | 21 | 19 | 24 |
-| 90d | 2026-06-24 | 10 | 36 | 8 | 39 | 22 | 55 |
-| last180d | 2026-03-26 | 19 | 86 | 11 | 82 | 30 | 148 |
-| 360d | 2025-09-27 | 32 | 128 | 13 | 175 | 59 | 226 |
-| last720d | 2024-10-02 | 99 | 370 | 18 | 406 | 94 | 664 |
+| 30d | 2026-08-24 | 4 | 5 | 0 | 12 | 8 | 10 |
+| last60d | 2026-07-25 | 8 | 19 | 2 | 23 | 16 | 27 |
+| 90d | 2026-06-25 | 11 | 38 | 5 | 42 | 19 | 58 |
+| last180d | 2026-03-27 | 20 | 89 | 8 | 85 | 28 | 151 |
+| 360d | 2025-09-28 | 33 | 131 | 10 | 179 | 56 | 229 |
+| last720d | 2024-10-03 | 99 | 373 | 15 | 410 | 91 | 665 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:20:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:05:19Z._
