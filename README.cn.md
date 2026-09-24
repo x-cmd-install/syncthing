@@ -26,11 +26,11 @@ x install syncthing
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,22 +48,22 @@ x install syncthing
 
 ## 流行度
 
-- **Star**: 88,857 · **Fork**: 5,488 · **开放 issue**: 5,962 · **贡献者**: 356
+- **Star**: 88,883 · **Fork**: 5,489 · **开放 issue**: 5,963 · **贡献者**: 356
 
 ## 累计统计
 
-- **发布数**: 483 · **已合并 PR**: 2933 · **开放 PR**: 16 · **已关闭 issue**: 5596 · **开放 issue**: 366 · **提交数**: 8199
+- **发布数**: 483 · **已合并 PR**: 2933 · **开放 PR**: 16 · **已关闭 issue**: 5596 · **开放 issue**: 367 · **提交数**: 8199
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 4 | 5 | 0 | 12 | 8 | 10 |
-| last60d | 2026-07-25 | 8 | 19 | 2 | 23 | 16 | 27 |
-| 90d | 2026-06-25 | 11 | 38 | 5 | 42 | 19 | 58 |
-| last180d | 2026-03-27 | 20 | 89 | 8 | 85 | 28 | 151 |
-| 360d | 2025-09-28 | 33 | 131 | 10 | 179 | 56 | 229 |
-| last720d | 2024-10-03 | 99 | 373 | 15 | 410 | 91 | 665 |
+| 30d | 2026-08-25 | 3 | 5 | 0 | 12 | 8 | 10 |
+| last60d | 2026-07-26 | 8 | 14 | 1 | 22 | 17 | 27 |
+| 90d | 2026-06-26 | 11 | 37 | 5 | 42 | 20 | 58 |
+| last180d | 2026-03-28 | 20 | 89 | 8 | 84 | 29 | 151 |
+| 360d | 2025-09-29 | 33 | 130 | 10 | 178 | 57 | 229 |
+| last720d | 2024-10-04 | 99 | 372 | 15 | 409 | 92 | 665 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ syncthing 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T05:05:20Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T04:56:52Z._
