@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 88,883 · **Forks**: 5,489 · **Open issues**: 5,963 · **Contributors**: 356
+- **Stars**: 88,911 · **Forks**: 5,490 · **Open issues**: 5,964 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 483 · **Merged PRs**: 2933 · **Open PRs**: 16 · **Closed issues**: 5596 · **Open issues**: 367 · **Commits**: 8199
+- **Releases**: 483 · **Merged PRs**: 2933 · **Open PRs**: 16 · **Closed issues**: 5596 · **Open issues**: 368 · **Commits**: 8199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 3 | 5 | 0 | 12 | 8 | 10 |
-| last60d | 2026-07-26 | 8 | 14 | 1 | 22 | 17 | 27 |
-| 90d | 2026-06-26 | 11 | 37 | 5 | 42 | 20 | 58 |
-| last180d | 2026-03-28 | 20 | 89 | 8 | 84 | 29 | 151 |
-| 360d | 2025-09-29 | 33 | 130 | 10 | 178 | 57 | 229 |
-| last720d | 2024-10-04 | 99 | 372 | 15 | 409 | 92 | 665 |
+| 30d | 2026-08-26 | 3 | 5 | 0 | 11 | 9 | 10 |
+| last60d | 2026-07-27 | 8 | 13 | 1 | 22 | 18 | 27 |
+| 90d | 2026-06-27 | 10 | 37 | 5 | 42 | 21 | 58 |
+| last180d | 2026-03-29 | 20 | 89 | 8 | 83 | 30 | 151 |
+| 360d | 2025-09-30 | 33 | 130 | 10 | 178 | 58 | 229 |
+| last720d | 2024-10-05 | 98 | 370 | 15 | 408 | 93 | 664 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:56:52Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:13:52Z._
