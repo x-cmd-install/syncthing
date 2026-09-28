@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.6-rc.3` (2026-09-08)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-28
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 88,960 · **Forks**: 5,494 · **Open issues**: 5,964 · **Contributors**: 356
+- **Stars**: 88,987 · **Forks**: 5,496 · **Open issues**: 5,965 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 483 · **Merged PRs**: 2933 · **Open PRs**: 16 · **Closed issues**: 5597 · **Open issues**: 367 · **Commits**: 8199
+- **Releases**: 483 · **Merged PRs**: 2933 · **Open PRs**: 16 · **Closed issues**: 5597 · **Open issues**: 368 · **Commits**: 8200
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 5 | 0 | 11 | 7 | 10 |
-| last60d | 2026-07-29 | 7 | 13 | 1 | 23 | 17 | 27 |
-| 90d | 2026-06-29 | 10 | 35 | 5 | 42 | 20 | 58 |
-| last180d | 2026-03-31 | 20 | 89 | 8 | 84 | 29 | 151 |
-| 360d | 2025-10-02 | 33 | 130 | 10 | 178 | 57 | 229 |
-| last720d | 2024-10-07 | 98 | 370 | 15 | 409 | 92 | 663 |
+| 30d | 2026-08-29 | 3 | 5 | 0 | 11 | 8 | 11 |
+| last60d | 2026-07-30 | 7 | 13 | 1 | 23 | 18 | 26 |
+| 90d | 2026-06-30 | 10 | 35 | 5 | 41 | 21 | 56 |
+| last180d | 2026-04-01 | 20 | 89 | 8 | 84 | 30 | 145 |
+| 360d | 2025-10-03 | 33 | 130 | 10 | 178 | 58 | 229 |
+| last720d | 2024-10-08 | 98 | 370 | 15 | 409 | 93 | 663 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:37:18Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:33:38Z._
