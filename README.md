@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,068 · **Forks**: 5,502 · **Open issues**: 5,968 · **Contributors**: 356
+- **Stars**: 89,098 · **Forks**: 5,506 · **Open issues**: 5,968 · **Contributors**: 356
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 4 | 6 | 0 | 11 | 10 | 13 |
-| last60d | 2026-08-02 | 8 | 15 | 1 | 23 | 20 | 28 |
-| 90d | 2026-07-03 | 11 | 36 | 5 | 41 | 23 | 58 |
-| last180d | 2026-04-04 | 21 | 91 | 8 | 84 | 32 | 147 |
-| 360d | 2025-10-06 | 34 | 131 | 10 | 178 | 60 | 231 |
-| last720d | 2024-10-11 | 99 | 372 | 15 | 409 | 95 | 665 |
+| 30d | 2026-09-02 | 4 | 6 | 0 | 11 | 10 | 13 |
+| last60d | 2026-08-03 | 8 | 14 | 1 | 23 | 20 | 28 |
+| 90d | 2026-07-04 | 11 | 36 | 5 | 41 | 23 | 58 |
+| last180d | 2026-04-05 | 21 | 89 | 8 | 84 | 32 | 147 |
+| 360d | 2025-10-07 | 34 | 131 | 10 | 178 | 60 | 231 |
+| last720d | 2024-10-12 | 99 | 372 | 15 | 409 | 95 | 665 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:06:57Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:45:54Z._
