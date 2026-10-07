@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.6` (2026-10-06)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,177 · **Forks**: 5,503 · **Open issues**: 5,973 · **Contributors**: 356
+- **Stars**: 89,191 · **Forks**: 5,504 · **Open issues**: 5,975 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 485 · **Merged PRs**: 2936 · **Open PRs**: 17 · **Closed issues**: 5602 · **Open issues**: 371 · **Commits**: 8204
+- **Releases**: 485 · **Merged PRs**: 2936 · **Open PRs**: 17 · **Closed issues**: 5604 · **Open issues**: 371 · **Commits**: 8205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 5 | 7 | 1 | 13 | 11 | 13 |
-| last60d | 2026-08-07 | 7 | 12 | 1 | 25 | 20 | 25 |
-| 90d | 2026-07-08 | 12 | 36 | 6 | 41 | 25 | 59 |
-| last180d | 2026-04-09 | 21 | 85 | 9 | 83 | 33 | 140 |
-| 360d | 2025-10-11 | 35 | 131 | 11 | 179 | 62 | 232 |
-| last720d | 2024-10-16 | 100 | 373 | 16 | 409 | 97 | 666 |
+| 30d | 2026-09-07 | 5 | 7 | 1 | 15 | 10 | 14 |
+| last60d | 2026-08-08 | 7 | 12 | 1 | 27 | 20 | 26 |
+| 90d | 2026-07-09 | 11 | 36 | 6 | 43 | 25 | 60 |
+| last180d | 2026-04-10 | 21 | 85 | 9 | 85 | 33 | 141 |
+| 360d | 2025-10-12 | 35 | 130 | 11 | 179 | 61 | 233 |
+| last720d | 2024-10-17 | 99 | 372 | 16 | 410 | 97 | 667 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:32:51Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:07:52Z._
