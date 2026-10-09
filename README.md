@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.6` (2026-10-06)
+- **Latest**: `v2.1.7-rc.1` (2026-10-06)
 - **Last commit**: 2026-10-07
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,208 · **Forks**: 5,506 · **Open issues**: 5,976 · **Contributors**: 355
+- **Stars**: 89,232 · **Forks**: 5,509 · **Open issues**: 5,976 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 485 · **Merged PRs**: 2939 · **Open PRs**: 17 · **Closed issues**: 5605 · **Open issues**: 371 · **Commits**: 8208
+- **Releases**: 486 · **Merged PRs**: 2939 · **Open PRs**: 17 · **Closed issues**: 5605 · **Open issues**: 371 · **Commits**: 8208
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 5 | 10 | 1 | 15 | 10 | 17 |
-| last60d | 2026-08-09 | 7 | 15 | 1 | 28 | 19 | 29 |
-| 90d | 2026-07-10 | 11 | 39 | 6 | 43 | 25 | 63 |
-| last180d | 2026-04-11 | 21 | 88 | 9 | 86 | 33 | 144 |
-| 360d | 2025-10-13 | 35 | 133 | 11 | 180 | 61 | 236 |
-| last720d | 2024-10-18 | 99 | 375 | 16 | 409 | 97 | 669 |
+| 30d | 2026-09-09 | 5 | 10 | 1 | 14 | 10 | 17 |
+| last60d | 2026-08-10 | 8 | 14 | 1 | 27 | 19 | 29 |
+| 90d | 2026-07-11 | 12 | 38 | 6 | 42 | 25 | 63 |
+| last180d | 2026-04-12 | 22 | 88 | 9 | 86 | 33 | 144 |
+| 360d | 2025-10-14 | 36 | 133 | 11 | 180 | 61 | 236 |
+| last720d | 2024-10-19 | 100 | 375 | 16 | 408 | 97 | 669 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:13:27Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:15:27Z._
