@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.7-rc.1` (2026-10-06)
+- **Latest**: `v2.1.7-rc.2` (2026-10-06)
 - **Last commit**: 2026-10-12
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,346 · **Forks**: 5,515 · **Open issues**: 5,978 · **Contributors**: 355
+- **Stars**: 89,375 · **Forks**: 5,518 · **Open issues**: 5,978 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 486 · **Merged PRs**: 2941 · **Open PRs**: 17 · **Closed issues**: 5605 · **Open issues**: 373 · **Commits**: 8211
+- **Releases**: 487 · **Merged PRs**: 2941 · **Open PRs**: 17 · **Closed issues**: 5605 · **Open issues**: 373 · **Commits**: 8211
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 5 | 11 | 1 | 12 | 12 | 15 |
-| last60d | 2026-08-14 | 8 | 16 | 1 | 24 | 19 | 28 |
-| 90d | 2026-07-15 | 12 | 39 | 6 | 41 | 26 | 61 |
-| last180d | 2026-04-16 | 22 | 90 | 9 | 85 | 35 | 146 |
-| 360d | 2025-10-18 | 36 | 134 | 11 | 180 | 60 | 228 |
-| last720d | 2024-10-23 | 100 | 375 | 16 | 403 | 99 | 670 |
+| 30d | 2026-09-14 | 6 | 10 | 1 | 12 | 11 | 15 |
+| last60d | 2026-08-15 | 9 | 16 | 1 | 23 | 19 | 28 |
+| 90d | 2026-07-16 | 13 | 38 | 5 | 39 | 26 | 61 |
+| last180d | 2026-04-17 | 23 | 90 | 9 | 85 | 35 | 146 |
+| 360d | 2025-10-19 | 37 | 134 | 11 | 180 | 60 | 228 |
+| last720d | 2024-10-24 | 100 | 375 | 16 | 402 | 99 | 670 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:04:41Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:08:31Z._
