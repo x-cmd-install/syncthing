@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.7-rc.3` (2026-10-06)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,542 · **Forks**: 5,530 · **Open issues**: 5,981 · **Contributors**: 355
+- **Stars**: 89,572 · **Forks**: 5,534 · **Open issues**: 5,984 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 488 · **Merged PRs**: 2945 · **Open PRs**: 16 · **Closed issues**: 5608 · **Open issues**: 373 · **Commits**: 8217
+- **Releases**: 488 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5610 · **Open issues**: 374 · **Commits**: 8218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 6 | 11 | 1 | 12 | 10 | 17 |
-| last60d | 2026-08-21 | 9 | 17 | 1 | 23 | 18 | 28 |
-| 90d | 2026-07-22 | 13 | 36 | 2 | 37 | 26 | 50 |
-| last180d | 2026-04-23 | 24 | 89 | 8 | 85 | 36 | 135 |
-| 360d | 2025-10-25 | 38 | 134 | 10 | 179 | 59 | 229 |
-| last720d | 2024-10-30 | 100 | 376 | 15 | 400 | 99 | 670 |
+| 30d | 2026-09-21 | 6 | 12 | 2 | 13 | 11 | 18 |
+| last60d | 2026-08-22 | 9 | 18 | 2 | 25 | 19 | 29 |
+| 90d | 2026-07-23 | 13 | 36 | 3 | 37 | 27 | 51 |
+| last180d | 2026-04-24 | 24 | 85 | 9 | 87 | 36 | 136 |
+| 360d | 2025-10-26 | 38 | 134 | 11 | 181 | 59 | 230 |
+| last720d | 2024-10-31 | 100 | 377 | 16 | 402 | 100 | 671 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:02:08Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:51:25Z._
