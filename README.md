@@ -42,68 +42,68 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.7-rc.3` (2026-10-06)
+- **Latest**: `v2.1.7` (2026-10-21)
 - **Last commit**: 2026-10-20
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,572 · **Forks**: 5,534 · **Open issues**: 5,984 · **Contributors**: 355
+- **Stars**: 89,608 · **Forks**: 5,533 · **Open issues**: 5,985 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 488 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5610 · **Open issues**: 374 · **Commits**: 8218
+- **Releases**: 490 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5611 · **Open issues**: 374 · **Commits**: 8218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 6 | 12 | 2 | 13 | 11 | 18 |
-| last60d | 2026-08-22 | 9 | 18 | 2 | 25 | 19 | 29 |
-| 90d | 2026-07-23 | 13 | 36 | 3 | 37 | 27 | 51 |
-| last180d | 2026-04-24 | 24 | 85 | 9 | 87 | 36 | 136 |
-| 360d | 2025-10-26 | 38 | 134 | 11 | 181 | 59 | 230 |
-| last720d | 2024-10-31 | 100 | 377 | 16 | 402 | 100 | 671 |
+| 30d | 2026-09-22 | 8 | 12 | 2 | 13 | 11 | 18 |
+| last60d | 2026-08-23 | 11 | 17 | 2 | 26 | 19 | 29 |
+| 90d | 2026-07-24 | 15 | 35 | 3 | 38 | 27 | 51 |
+| last180d | 2026-04-25 | 26 | 85 | 8 | 87 | 36 | 136 |
+| 360d | 2025-10-27 | 40 | 134 | 11 | 181 | 59 | 230 |
+| last720d | 2024-11-01 | 100 | 377 | 16 | 402 | 100 | 671 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [compat.json](https://github.com/syncthing/syncthing/releases/download/v2.1.6/compat.json) | 112 B | `other` |
-| [sha1sum.txt.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.6/sha1sum.txt.asc) | 8.6 KiB | `other` |
-| [sha256sum.txt.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.6/sha256sum.txt.asc) | 10.8 KiB | `other` |
-| [syncthing-freebsd-386-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-386-v2.1.6.tar.gz) | 12.0 MiB | `native/unknown` |
-| [syncthing-freebsd-amd64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-amd64-v2.1.6.tar.gz) | 12.4 MiB | `native/linux/x64` |
-| [syncthing-freebsd-arm-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm-v2.1.6.tar.gz) | 11.9 MiB | `native/linux/arm` |
-| [syncthing-freebsd-arm64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-freebsd-arm64-v2.1.6.tar.gz) | 11.5 MiB | `native/linux/arm64` |
-| [syncthing-illumos-amd64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-illumos-amd64-v2.1.6.tar.gz) | 14.0 MiB | `native/linux/x64` |
-| [syncthing-linux-386-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-386-v2.1.6.tar.gz) | 10.9 MiB | `native/unknown` |
-| [syncthing-linux-amd64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-amd64-v2.1.6.tar.gz) | 11.2 MiB | `native/linux/x64` |
-| [syncthing-linux-arm-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm-v2.1.6.tar.gz) | 10.8 MiB | `native/linux/arm` |
-| [syncthing-linux-arm64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-arm64-v2.1.6.tar.gz) | 10.3 MiB | `native/linux/arm64` |
-| [syncthing-linux-loong64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-loong64-v2.1.6.tar.gz) | 10.8 MiB | `native/unknown` |
-| [syncthing-linux-mips-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mips-v2.1.6.tar.gz) | 10.7 MiB | `native/unknown` |
-| [syncthing-linux-mips64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mips64-v2.1.6.tar.gz) | 11.1 MiB | `native/unknown` |
-| [syncthing-linux-mips64le-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mips64le-v2.1.6.tar.gz) | 10.9 MiB | `native/unknown` |
-| [syncthing-linux-mipsle-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-mipsle-v2.1.6.tar.gz) | 10.5 MiB | `native/unknown` |
-| [syncthing-linux-ppc64le-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-ppc64le-v2.1.6.tar.gz) | 10.5 MiB | `native/unknown` |
-| [syncthing-linux-riscv64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-riscv64-v2.1.6.tar.gz) | 10.7 MiB | `native/linux/riscv64` |
-| [syncthing-linux-s390x-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-linux-s390x-v2.1.6.tar.gz) | 11.1 MiB | `native/unknown` |
-| [syncthing-macos-amd64-v2.1.6.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-amd64-v2.1.6.zip) | 11.8 MiB | `native/darwin/x64` |
-| [syncthing-macos-arm64-v2.1.6.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-arm64-v2.1.6.zip) | 10.7 MiB | `native/darwin/arm64` |
-| [syncthing-macos-universal-v2.1.6.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-macos-universal-v2.1.6.zip) | 22.5 MiB | `native/darwin/x64` |
-| [syncthing-netbsd-amd64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-netbsd-amd64-v2.1.6.tar.gz) | 12.4 MiB | `native/linux/x64` |
-| [syncthing-openbsd-amd64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-amd64-v2.1.6.tar.gz) | 12.4 MiB | `native/linux/x64` |
-| [syncthing-openbsd-arm64-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-openbsd-arm64-v2.1.6.tar.gz) | 11.5 MiB | `native/linux/arm64` |
-| [syncthing-source-v2.1.6.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-source-v2.1.6.tar.gz) | 41.2 MiB | `native/unknown` |
-| [syncthing-source-v2.1.6.tar.gz.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-source-v2.1.6.tar.gz.asc) | 1.4 KiB | `other` |
-| [syncthing-windows-386-v2.1.6.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-386-v2.1.6.zip) | 11.2 MiB | `native/win/x64` |
-| [syncthing-windows-amd64-v2.1.6.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-amd64-v2.1.6.zip) | 11.4 MiB | `native/win/x64` |
-| [syncthing-windows-arm64-v2.1.6.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-arm64-v2.1.6.zip) | 10.4 MiB | `native/win/arm64` |
-| [syncthing_2.1.6_amd64.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_amd64.deb) | 11.3 MiB | `runtime/deb/amd64` |
-| [syncthing_2.1.6_arm64.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_arm64.deb) | 10.4 MiB | `runtime/deb/arm64` |
-| [syncthing_2.1.6_armel.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_armel.deb) | 10.8 MiB | `other` |
-| [syncthing_2.1.6_armhf.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing_2.1.6_armhf.deb) | 10.8 MiB | `runtime/deb/armhf` |
+| [compat.json](https://github.com/syncthing/syncthing/releases/download/v2.1.7/compat.json) | 112 B | `other` |
+| [sha1sum.txt.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.7/sha1sum.txt.asc) | 8.6 KiB | `other` |
+| [sha256sum.txt.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.7/sha256sum.txt.asc) | 10.8 KiB | `other` |
+| [syncthing-freebsd-386-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-386-v2.1.7.tar.gz) | 14.1 MiB | `native/unknown` |
+| [syncthing-freebsd-amd64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-amd64-v2.1.7.tar.gz) | 14.7 MiB | `native/linux/x64` |
+| [syncthing-freebsd-arm-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-arm-v2.1.7.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [syncthing-freebsd-arm64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-arm64-v2.1.7.tar.gz) | 13.6 MiB | `native/linux/arm64` |
+| [syncthing-illumos-amd64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-illumos-amd64-v2.1.7.tar.gz) | 16.5 MiB | `native/linux/x64` |
+| [syncthing-linux-386-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-386-v2.1.7.tar.gz) | 12.9 MiB | `native/unknown` |
+| [syncthing-linux-amd64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-amd64-v2.1.7.tar.gz) | 13.4 MiB | `native/linux/x64` |
+| [syncthing-linux-arm-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-arm-v2.1.7.tar.gz) | 12.8 MiB | `native/linux/arm` |
+| [syncthing-linux-arm64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-arm64-v2.1.7.tar.gz) | 12.3 MiB | `native/linux/arm64` |
+| [syncthing-linux-loong64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-loong64-v2.1.7.tar.gz) | 12.8 MiB | `native/unknown` |
+| [syncthing-linux-mips-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mips-v2.1.7.tar.gz) | 12.6 MiB | `native/unknown` |
+| [syncthing-linux-mips64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mips64-v2.1.7.tar.gz) | 13.2 MiB | `native/unknown` |
+| [syncthing-linux-mips64le-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mips64le-v2.1.7.tar.gz) | 12.9 MiB | `native/unknown` |
+| [syncthing-linux-mipsle-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mipsle-v2.1.7.tar.gz) | 12.4 MiB | `native/unknown` |
+| [syncthing-linux-ppc64le-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-ppc64le-v2.1.7.tar.gz) | 12.5 MiB | `native/unknown` |
+| [syncthing-linux-riscv64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-riscv64-v2.1.7.tar.gz) | 12.7 MiB | `native/linux/riscv64` |
+| [syncthing-linux-s390x-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-s390x-v2.1.7.tar.gz) | 13.3 MiB | `native/unknown` |
+| [syncthing-macos-amd64-v2.1.7.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-amd64-v2.1.7.zip) | 14.2 MiB | `native/darwin/x64` |
+| [syncthing-macos-arm64-v2.1.7.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-arm64-v2.1.7.zip) | 12.8 MiB | `native/darwin/arm64` |
+| [syncthing-macos-universal-v2.1.7.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-universal-v2.1.7.zip) | 26.9 MiB | `native/darwin/x64` |
+| [syncthing-netbsd-amd64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-netbsd-amd64-v2.1.7.tar.gz) | 14.7 MiB | `native/linux/x64` |
+| [syncthing-openbsd-amd64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-openbsd-amd64-v2.1.7.tar.gz) | 14.7 MiB | `native/linux/x64` |
+| [syncthing-openbsd-arm64-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-openbsd-arm64-v2.1.7.tar.gz) | 13.6 MiB | `native/linux/arm64` |
+| [syncthing-source-v2.1.7.tar.gz](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-source-v2.1.7.tar.gz) | 41.7 MiB | `native/unknown` |
+| [syncthing-source-v2.1.7.tar.gz.asc](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-source-v2.1.7.tar.gz.asc) | 1.4 KiB | `other` |
+| [syncthing-windows-386-v2.1.7.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-386-v2.1.7.zip) | 13.3 MiB | `native/win/x64` |
+| [syncthing-windows-amd64-v2.1.7.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-amd64-v2.1.7.zip) | 13.6 MiB | `native/win/x64` |
+| [syncthing-windows-arm64-v2.1.7.zip](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-arm64-v2.1.7.zip) | 12.3 MiB | `native/win/arm64` |
+| [syncthing_2.1.7_amd64.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_amd64.deb) | 13.4 MiB | `runtime/deb/amd64` |
+| [syncthing_2.1.7_arm64.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_arm64.deb) | 12.3 MiB | `runtime/deb/arm64` |
+| [syncthing_2.1.7_armel.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_armel.deb) | 12.8 MiB | `other` |
+| [syncthing_2.1.7_armhf.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_armhf.deb) | 12.8 MiB | `runtime/deb/armhf` |
 
 ## Improve this data
 
@@ -114,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:51:25Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:50:21Z._
