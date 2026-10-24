@@ -14,11 +14,11 @@ x install syncthing
 
 ## Code insight
 
-Total: **181,932** lines of code across **671** files in the top 5 languages.
+Total: **181,947** lines of code across **671** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 93,377 | 11,622 | 16,216 | 548 |
+| Go | 93,392 | 11,623 | 16,218 | 548 |
 | JavaScript | 40,162 | 22,378 | 7,584 | 37 |
 | Json | 27,091 | 0 | 0 | 58 |
 | Css | 10,614 | 182 | 325 | 13 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.7` (2026-10-21)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-23
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,634 · **Forks**: 5,533 · **Open issues**: 5,987 · **Contributors**: 355
+- **Stars**: 89,672 · **Forks**: 5,535 · **Open issues**: 5,989 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 490 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5612 · **Open issues**: 375 · **Commits**: 8218
+- **Releases**: 490 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5614 · **Open issues**: 375 · **Commits**: 8219
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 7 | 12 | 2 | 13 | 12 | 18 |
-| last60d | 2026-08-24 | 11 | 17 | 2 | 27 | 19 | 29 |
-| 90d | 2026-07-25 | 15 | 32 | 3 | 38 | 27 | 51 |
-| last180d | 2026-04-26 | 26 | 85 | 8 | 88 | 37 | 136 |
-| 360d | 2025-10-28 | 39 | 134 | 11 | 182 | 59 | 230 |
-| last720d | 2024-11-02 | 100 | 377 | 16 | 403 | 101 | 671 |
+| 30d | 2026-09-24 | 7 | 12 | 2 | 15 | 11 | 19 |
+| last60d | 2026-08-25 | 10 | 17 | 2 | 29 | 18 | 30 |
+| 90d | 2026-07-26 | 15 | 26 | 3 | 39 | 27 | 52 |
+| last180d | 2026-04-27 | 25 | 85 | 8 | 90 | 37 | 137 |
+| 360d | 2025-10-29 | 39 | 134 | 11 | 184 | 59 | 231 |
+| last720d | 2024-11-03 | 100 | 377 | 16 | 404 | 101 | 672 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **200** distros on [repology.org](https://repology.org/project/syncthing). **31** are ✅ on the latest upstream release, **148** are ⚠️ on an older version.
+Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **36** are ✅ on the latest upstream release, **143** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -117,7 +117,7 @@ Reported by **200** distros on [repology.org](https://repology.org/project/synct
 | Ubuntu 26.04 LTS | `1.29.5` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.27.2` | ⚠️ outdated |
 | Arch | `2.1.7` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.1.7` | ✅ latest |
 | Fedora rawhide | `2.1.6` | ⚠️ outdated |
 | Nix unstable | `2.1.3` | ⚠️ outdated |
 | Void | `2.1.7` | ✅ latest |
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:54:12Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:50:09Z._
