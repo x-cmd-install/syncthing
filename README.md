@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.7` (2026-10-21)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 89,712 · **Forks**: 5,539 · **Open issues**: 5,989 · **Contributors**: 356
+- **Stars**: 89,751 · **Forks**: 5,542 · **Open issues**: 5,989 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 490 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5615 · **Open issues**: 374 · **Commits**: 8219
+- **Releases**: 490 · **Merged PRs**: 2946 · **Open PRs**: 17 · **Closed issues**: 5615 · **Open issues**: 374 · **Commits**: 8220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 7 | 12 | 2 | 16 | 10 | 19 |
-| last60d | 2026-08-26 | 10 | 17 | 2 | 29 | 17 | 30 |
-| 90d | 2026-07-27 | 15 | 25 | 3 | 40 | 26 | 52 |
-| last180d | 2026-04-28 | 25 | 85 | 8 | 90 | 36 | 137 |
-| 360d | 2025-10-30 | 39 | 134 | 11 | 185 | 57 | 231 |
-| last720d | 2024-11-04 | 100 | 377 | 16 | 405 | 100 | 672 |
+| 30d | 2026-09-26 | 7 | 12 | 2 | 16 | 10 | 17 |
+| last60d | 2026-08-27 | 10 | 17 | 2 | 29 | 16 | 31 |
+| 90d | 2026-07-28 | 15 | 25 | 3 | 40 | 26 | 48 |
+| last180d | 2026-04-29 | 25 | 83 | 8 | 90 | 36 | 133 |
+| 360d | 2025-10-31 | 39 | 134 | 11 | 185 | 57 | 230 |
+| last720d | 2024-11-05 | 100 | 375 | 16 | 405 | 100 | 672 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **36** are ✅ on the latest upstream release, **143** are ⚠️ on an older version.
+Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **39** are ✅ on the latest upstream release, **140** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:46:53Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:53:54Z._
