@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,823 · **Forks**: 5,550 · **Open issues**: 5,996 · **Contributors**: 356
+- **Stars**: 89,847 · **Forks**: 5,552 · **Open issues**: 5,996 · **Contributors**: 356
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 7 | 13 | 2 | 16 | 15 | 19 |
-| last60d | 2026-08-29 | 10 | 18 | 2 | 29 | 22 | 33 |
-| 90d | 2026-07-30 | 14 | 26 | 3 | 41 | 32 | 50 |
-| last180d | 2026-05-01 | 25 | 83 | 7 | 91 | 42 | 135 |
-| 360d | 2025-11-02 | 39 | 136 | 10 | 186 | 63 | 232 |
-| last720d | 2024-11-07 | 100 | 377 | 15 | 404 | 106 | 674 |
+| 30d | 2026-09-29 | 7 | 13 | 2 | 16 | 15 | 19 |
+| last60d | 2026-08-30 | 10 | 18 | 2 | 29 | 22 | 33 |
+| 90d | 2026-07-31 | 14 | 26 | 3 | 41 | 32 | 50 |
+| last180d | 2026-05-02 | 25 | 83 | 7 | 91 | 42 | 135 |
+| 360d | 2025-11-03 | 39 | 136 | 10 | 185 | 63 | 232 |
+| last720d | 2024-11-08 | 100 | 377 | 15 | 403 | 106 | 673 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **40** are ✅ on the latest upstream release, **139** are ⚠️ on an older version.
+Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **43** are ✅ on the latest upstream release, **136** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -119,7 +119,7 @@ Reported by **202** distros on [repology.org](https://repology.org/project/synct
 | Arch | `2.1.7` | ✅ latest |
 | Homebrew | `2.1.7` | ✅ latest |
 | Fedora rawhide | `2.1.6` | ⚠️ outdated |
-| Nix unstable | `2.1.3` | ⚠️ outdated |
+| Nix unstable | `2.1.7` | ✅ latest |
 | Void | `2.1.7` | ✅ latest |
 | Alpine edge | `2.1.6` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.1.7` | ✅ latest |
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:49:32Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:01:21Z._
