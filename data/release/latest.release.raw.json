@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:172e33009e6183aefe7aa902c1f33be62ed2ede8a16abafba536654743af1fa0",
-      "download_count": 110,
+      "download_count": 118,
       "created_at": "2026-10-21T06:09:01Z",
       "updated_at": "2026-10-21T06:09:01Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/compat.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8797,
       "digest": "sha256:a1ca7f48fb8e6d9f1b44448abddf0b61557c3de0ef935ebfc6a8826916a95659",
-      "download_count": 83,
+      "download_count": 91,
       "created_at": "2026-10-21T06:09:01Z",
       "updated_at": "2026-10-21T06:09:01Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/sha1sum.txt.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11029,
       "digest": "sha256:c512202f9138caca4aa22cc8f9b71fb4288c8a16d5af97f45206275efabd0d1d",
-      "download_count": 2698,
+      "download_count": 3005,
       "created_at": "2026-10-21T06:09:01Z",
       "updated_at": "2026-10-21T06:09:01Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/sha256sum.txt.asc"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14815289,
       "digest": "sha256:686c99126277425d38819df4cad1299fa8e718c699422d0567257a46fb1029c3",
-      "download_count": 113,
+      "download_count": 120,
       "created_at": "2026-10-21T06:09:01Z",
       "updated_at": "2026-10-21T06:09:02Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-386-v2.1.7.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15460437,
       "digest": "sha256:7e463460aebe4915eb744f12e270596cdf6fb3f0063b69ce91dc77b7996c091c",
-      "download_count": 162,
+      "download_count": 173,
       "created_at": "2026-10-21T06:09:01Z",
       "updated_at": "2026-10-21T06:09:03Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-amd64-v2.1.7.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14712163,
       "digest": "sha256:a2a421d1ca32ae735b6cb278b81604202349924969c715c7b94af38c1baa3702",
-      "download_count": 100,
+      "download_count": 106,
       "created_at": "2026-10-21T06:09:02Z",
       "updated_at": "2026-10-21T06:09:03Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-arm-v2.1.7.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14273155,
       "digest": "sha256:ce03a631d5341abe24d4dc421d4a660db43f032d5ad1f5954281418109af4339",
-      "download_count": 107,
+      "download_count": 114,
       "created_at": "2026-10-21T06:09:02Z",
       "updated_at": "2026-10-21T06:09:04Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-freebsd-arm64-v2.1.7.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 17268391,
       "digest": "sha256:a4d3e226e908c91eacaf285ee36976bd10905aa95168485606df96aa2f893669",
-      "download_count": 106,
+      "download_count": 118,
       "created_at": "2026-10-21T06:09:02Z",
       "updated_at": "2026-10-21T06:09:03Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-illumos-amd64-v2.1.7.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13497205,
       "digest": "sha256:3cbee24e509011d19859a2147f641b6cfff6e63e23ad3c30a410ea79f9322bac",
-      "download_count": 267,
+      "download_count": 290,
       "created_at": "2026-10-21T06:09:02Z",
       "updated_at": "2026-10-21T06:09:03Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-386-v2.1.7.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14046697,
       "digest": "sha256:2edc416e7ed136b7c858ed5f3f02a3b8316589605e54c380228ceea7acbf0142",
-      "download_count": 6500,
+      "download_count": 7288,
       "created_at": "2026-10-21T06:09:03Z",
       "updated_at": "2026-10-21T06:09:04Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-amd64-v2.1.7.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13374338,
       "digest": "sha256:d8b59029e25992bc0d280fccc5626e5dca743b285fca1a36db1148fcf871b639",
-      "download_count": 354,
+      "download_count": 438,
       "created_at": "2026-10-21T06:09:04Z",
       "updated_at": "2026-10-21T06:09:04Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-arm-v2.1.7.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12866755,
       "digest": "sha256:48e456690cd2b97e7d26b02b5ac35f62a3b36172267b144cfeaf02c993ab955c",
-      "download_count": 1219,
+      "download_count": 1318,
       "created_at": "2026-10-21T06:09:04Z",
       "updated_at": "2026-10-21T06:09:05Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-arm64-v2.1.7.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 13452399,
       "digest": "sha256:52014efc779094de6f7517113be056671f43d759e65814a23cbbac4a37f8622a",
-      "download_count": 91,
+      "download_count": 97,
       "created_at": "2026-10-21T06:09:04Z",
       "updated_at": "2026-10-21T06:09:05Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-loong64-v2.1.7.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 13172361,
       "digest": "sha256:8962396492888bb52aab8fb02dc25685cf77a379a375f05933e910bc87d3e0e5",
-      "download_count": 85,
+      "download_count": 91,
       "created_at": "2026-10-21T06:09:04Z",
       "updated_at": "2026-10-21T06:09:05Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mips-v2.1.7.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 13793158,
       "digest": "sha256:b98f89cd9621b422317f04cf5ba3a1ddbb68aa39474d8aa5d9fe9aa9ce21de63",
-      "download_count": 87,
+      "download_count": 93,
       "created_at": "2026-10-21T06:09:05Z",
       "updated_at": "2026-10-21T06:09:06Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mips64-v2.1.7.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 13484466,
       "digest": "sha256:edb7d72289501fc82fb883485db158c2e22d05294132dab6c42969ffbc35fc64",
-      "download_count": 84,
+      "download_count": 90,
       "created_at": "2026-10-21T06:09:05Z",
       "updated_at": "2026-10-21T06:09:07Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mips64le-v2.1.7.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 12977376,
       "digest": "sha256:33e5eac4af717d6a9cb7c8c34da2284291ae4eecba6a1b663f01e55d6a7e8842",
-      "download_count": 88,
+      "download_count": 94,
       "created_at": "2026-10-21T06:09:05Z",
       "updated_at": "2026-10-21T06:09:06Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-mipsle-v2.1.7.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13100175,
       "digest": "sha256:6e18fa230ef99d3d789cd06b15c7db55b9c5af14fd48d5cb6e59fe8de01402ed",
-      "download_count": 85,
+      "download_count": 91,
       "created_at": "2026-10-21T06:09:06Z",
       "updated_at": "2026-10-21T06:09:07Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-ppc64le-v2.1.7.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 13328126,
       "digest": "sha256:ea710ba8bc286f293b362e8fb37697a36877c9d29b8ca6ec1c05444d631a937b",
-      "download_count": 103,
+      "download_count": 111,
       "created_at": "2026-10-21T06:09:06Z",
       "updated_at": "2026-10-21T06:09:07Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-riscv64-v2.1.7.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 13932347,
       "digest": "sha256:dc8f22801a74235ee57f979dc05687b3114e8226824311bc03e27829b8efe538",
-      "download_count": 86,
+      "download_count": 92,
       "created_at": "2026-10-21T06:09:06Z",
       "updated_at": "2026-10-21T06:09:07Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-linux-s390x-v2.1.7.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 14889765,
       "digest": "sha256:b8be90176d0f24daebae7b5aaddac52ebfae395df6d99f5e0e54656db00868cb",
-      "download_count": 1191,
+      "download_count": 1239,
       "created_at": "2026-10-21T06:09:08Z",
       "updated_at": "2026-10-21T06:09:09Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-amd64-v2.1.7.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 13372993,
       "digest": "sha256:2df075b463231a307c91da657157beaed06383a941ba7ea04d33d536e3c4af38",
-      "download_count": 1397,
+      "download_count": 1574,
       "created_at": "2026-10-21T06:09:08Z",
       "updated_at": "2026-10-21T06:09:09Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-arm64-v2.1.7.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 28225573,
       "digest": "sha256:a98fb709c79412e5586c81a1586bfb256b6e5a97b067ddf7447155bcdf6aac3f",
-      "download_count": 564,
+      "download_count": 638,
       "created_at": "2026-10-21T06:09:08Z",
       "updated_at": "2026-10-21T06:09:10Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-universal-v2.1.7.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 15378950,
       "digest": "sha256:9fa611b26012e93e5f790fc09b1d4431427010fe78fd1d06a43d542c70200448",
-      "download_count": 93,
+      "download_count": 99,
       "created_at": "2026-10-21T06:09:07Z",
       "updated_at": "2026-10-21T06:09:08Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-netbsd-amd64-v2.1.7.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 15402753,
       "digest": "sha256:8e38b3f4390343d7be5b3169572c7f49e7879846896c858b6434a2b99e517a8a",
-      "download_count": 98,
+      "download_count": 104,
       "created_at": "2026-10-21T06:09:07Z",
       "updated_at": "2026-10-21T06:09:08Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-openbsd-amd64-v2.1.7.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 14226361,
       "digest": "sha256:8670c3c46db1d978c5692a5fc77ffc80ce6cc1dd890f87a774763c603c492852",
-      "download_count": 86,
+      "download_count": 92,
       "created_at": "2026-10-21T06:09:07Z",
       "updated_at": "2026-10-21T06:09:09Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-openbsd-arm64-v2.1.7.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 43763455,
       "digest": "sha256:5b84abd0e8b187f618fb2c38c37fa37ce0b377a275d3e0b981bad94176a24afa",
-      "download_count": 644,
+      "download_count": 688,
       "created_at": "2026-10-21T06:09:08Z",
       "updated_at": "2026-10-21T06:09:10Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-source-v2.1.7.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 1391,
       "digest": "sha256:6c429d34ef5f8a7b747c3ab4c72e11047258802f9c17dd234a42c560df2b0cf1",
-      "download_count": 127,
+      "download_count": 135,
       "created_at": "2026-10-21T06:09:01Z",
       "updated_at": "2026-10-21T06:09:01Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-source-v2.1.7.tar.gz.asc"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 13919162,
       "digest": "sha256:8b3ef0563cc21d923c9faa4282f07c94eea039dba658ef435ab5ac99020ed122",
-      "download_count": 691,
+      "download_count": 777,
       "created_at": "2026-10-21T06:09:10Z",
       "updated_at": "2026-10-21T06:09:11Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-386-v2.1.7.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 14281765,
       "digest": "sha256:3ce7da770f546a8d02b65b2e7ee31f2a3b8b7c3f990ede045590cca4172ecfe1",
-      "download_count": 27135,
+      "download_count": 30486,
       "created_at": "2026-10-21T06:09:10Z",
       "updated_at": "2026-10-21T06:09:11Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-amd64-v2.1.7.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 12924843,
       "digest": "sha256:d535ffd611b3af223de64bc5dfc60c378881eb13d5c8ecb1431b7407094c15ff",
-      "download_count": 599,
+      "download_count": 661,
       "created_at": "2026-10-21T06:09:10Z",
       "updated_at": "2026-10-21T06:09:11Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-arm64-v2.1.7.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 14054904,
       "digest": "sha256:01400d260bb6e47f1fe432bbb462cdb35ea6f78fc498198dfba6e292a3614837",
-      "download_count": 380,
+      "download_count": 404,
       "created_at": "2026-10-21T06:09:10Z",
       "updated_at": "2026-10-21T06:09:12Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_amd64.deb"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 12901050,
       "digest": "sha256:1ce6836149febb1409ebe2a9876cb8cd5bba917d64029ed75afe72b780c691a9",
-      "download_count": 129,
+      "download_count": 139,
       "created_at": "2026-10-21T06:09:11Z",
       "updated_at": "2026-10-21T06:09:12Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_arm64.deb"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 13374754,
       "digest": "sha256:4414dec5389d95d96aa45bc1fa1045fa924071344ae9b1b5aea79df840362f37",
-      "download_count": 88,
+      "download_count": 95,
       "created_at": "2026-10-21T06:09:11Z",
       "updated_at": "2026-10-21T06:09:12Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_armel.deb"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 13374638,
       "digest": "sha256:d1cf332114ef72af8f198d41042ee60575cd9e7da6af58240ab4c3eba2fee331",
-      "download_count": 90,
+      "download_count": 96,
       "created_at": "2026-10-21T06:09:11Z",
       "updated_at": "2026-10-21T06:09:13Z",
       "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_armhf.deb"
@@ -1302,11 +1302,11 @@
   "body": "## What's Changed\r\n\r\nBuilt with Go 1.27.3.\r\n\r\n### Fixes\r\n* fix: handle missing max-sequence file entries by @calmh in https://github.com/syncthing/syncthing/pull/10912\r\n* fix(sqlite): avoid early garbage collection of deleted recv-enc files by @calmh in https://github.com/syncthing/syncthing/pull/10916\r\n* fix(sqlite): do not generate unbounded prepared statements (ref #10913) by @calmh in https://github.com/syncthing/syncthing/pull/10915\r\n* fix(discover): skip unnecessary identical global announce updates; obey retry-after by @calmh in https://github.com/syncthing/syncthing/pull/10918\r\n* fix(protocol): convert panics on bad data to protocol errors by @calmh in https://github.com/syncthing/syncthing/pull/10923\r\n* fix(model): verify local change before applying metadata shortcut (fixes #10924) by @calmh in https://github.com/syncthing/syncthing/pull/10925\r\n* fix(model): ensure parent ownership is copied properly (fixes #8399) by @calmh in https://github.com/syncthing/syncthing/pull/10926\r\n* fix(model): properly compare blocks when reconciling receive-only (fixes #10928) by @calmh in https://github.com/syncthing/syncthing/pull/10929\r\n### Other\r\n* build(deps): update dependencies by @calmh in https://github.com/syncthing/syncthing/pull/10917\r\n* chore(protocol): add protovalidate validation of incoming messages, reasonable limits by @calmh in https://github.com/syncthing/syncthing/pull/10838\r\n\r\n**Full Changelog**: https://github.com/syncthing/syncthing/compare/v2.1.6...v2.1.7",
   "reactions": {
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/419214287/reactions",
-    "total_count": 34,
-    "+1": 12,
+    "total_count": 36,
+    "+1": 13,
     "-1": 0,
     "laugh": 0,
-    "hooray": 12,
+    "hooray": 13,
     "confused": 0,
     "heart": 6,
     "rocket": 4,
