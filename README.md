@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,847 · **Forks**: 5,552 · **Open issues**: 5,996 · **Contributors**: 356
+- **Stars**: 89,887 · **Forks**: 5,560 · **Open issues**: 5,997 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 490 · **Merged PRs**: 2948 · **Open PRs**: 16 · **Closed issues**: 5616 · **Open issues**: 380 · **Commits**: 8222
+- **Releases**: 490 · **Merged PRs**: 2948 · **Open PRs**: 17 · **Closed issues**: 5616 · **Open issues**: 381 · **Commits**: 8222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 7 | 13 | 2 | 16 | 15 | 19 |
-| last60d | 2026-08-30 | 10 | 18 | 2 | 29 | 22 | 33 |
-| 90d | 2026-07-31 | 14 | 26 | 3 | 41 | 32 | 50 |
-| last180d | 2026-05-02 | 25 | 83 | 7 | 91 | 42 | 135 |
-| 360d | 2025-11-03 | 39 | 136 | 10 | 185 | 63 | 232 |
-| last720d | 2024-11-08 | 100 | 377 | 15 | 403 | 106 | 673 |
+| 30d | 2026-09-30 | 7 | 11 | 3 | 15 | 15 | 19 |
+| last60d | 2026-08-31 | 10 | 18 | 3 | 29 | 23 | 33 |
+| 90d | 2026-08-01 | 14 | 26 | 4 | 41 | 33 | 50 |
+| last180d | 2026-05-03 | 25 | 83 | 8 | 90 | 42 | 135 |
+| 360d | 2025-11-04 | 39 | 136 | 11 | 185 | 64 | 232 |
+| last720d | 2024-11-09 | 100 | 377 | 16 | 402 | 107 | 673 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **43** are ✅ on the latest upstream release, **136** are ⚠️ on an older version.
+Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **52** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -121,7 +121,7 @@ Reported by **202** distros on [repology.org](https://repology.org/project/synct
 | Fedora rawhide | `2.1.6` | ⚠️ outdated |
 | Nix unstable | `2.1.7` | ✅ latest |
 | Void | `2.1.7` | ✅ latest |
-| Alpine edge | `2.1.6` | ⚠️ outdated |
+| Alpine edge | `2.1.7` | ✅ latest |
 | openSUSE Tumbleweed | `2.1.7` | ✅ latest |
 
 ## Improve this data
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:01:21Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:58:33Z._
