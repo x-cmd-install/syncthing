@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,887 · **Forks**: 5,560 · **Open issues**: 5,997 · **Contributors**: 356
+- **Stars**: 89,919 · **Forks**: 5,565 · **Open issues**: 5,997 · **Contributors**: 356
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 7 | 11 | 3 | 15 | 15 | 19 |
-| last60d | 2026-08-31 | 10 | 18 | 3 | 29 | 23 | 33 |
-| 90d | 2026-08-01 | 14 | 26 | 4 | 41 | 33 | 50 |
-| last180d | 2026-05-03 | 25 | 83 | 8 | 90 | 42 | 135 |
-| 360d | 2025-11-04 | 39 | 136 | 11 | 185 | 64 | 232 |
-| last720d | 2024-11-09 | 100 | 377 | 16 | 402 | 107 | 673 |
+| 30d | 2026-10-01 | 6 | 11 | 3 | 15 | 15 | 19 |
+| last60d | 2026-09-01 | 10 | 17 | 3 | 28 | 23 | 33 |
+| 90d | 2026-08-02 | 14 | 26 | 4 | 40 | 33 | 50 |
+| last180d | 2026-05-04 | 25 | 82 | 7 | 90 | 42 | 135 |
+| 360d | 2025-11-05 | 38 | 136 | 11 | 182 | 64 | 232 |
+| last720d | 2024-11-10 | 100 | 377 | 16 | 401 | 107 | 673 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **52** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
+Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **53** are ✅ on the latest upstream release, **126** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:58:33Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:45:58Z._
