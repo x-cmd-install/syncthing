@@ -1,3 +1,47 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing-relaysrv
+  visiblename: syncthing-relaysrv
+  version: 1.24.0
+  origversion: 1.24.0-1
+  status: outdated
+  summary: Relay server for Syncthing
+  licenses:
+    - MPL
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing-relaysrv
+  visiblename: syncthing-relaysrv
+  version: 2.1.7
+  origversion: 2.1.7-1
+  status: newest
+  summary: Relay server for Syncthing
+  licenses:
+    - MPL-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing-discosrv
+  visiblename: syncthing-discosrv
+  version: 2.1.7
+  origversion: 2.1.7-1
+  status: newest
+  summary: Discovery server for Syncthing
+  licenses:
+    - MPL-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing
+  visiblename: syncthing
+  version: 2.1.7
+  origversion: 2.1.7-1
+  status: newest
+  summary: Open Source Continuous Replication / Cluster Synchronization Thing
+  licenses:
+    - MPL-2.0
 - repo: aerynos
   srcname: syncthing
   visiblename: syncthing
@@ -33,6 +77,25 @@
     - ncopa@alpinelinux.org
   licenses:
     - MPL-2.0
+- repo: parrot
+  subrepo: parrot/main
+  srcname: syncthing
+  binnames:
+    - golang-github-syncthing-syncthing-dev
+    - syncthing
+    - syncthing-relaysrv
+    - syncthing-discosrv
+  visiblename: syncthing
+  version: 1.29.5
+  origversion: 1.29.5~ds1-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - aviau@debian.org
+    - creekorful@debian.org
+    - felix@debian.org
+  categories:
+    - utils
 - repo: alpine_3_19
   subrepo: community
   srcname: syncthing
@@ -500,6 +563,17 @@
 - repo: arch
   subrepo: extra
   srcname: syncthing
+  binname: syncthing-discosrv
+  visiblename: syncthing-discosrv
+  version: 2.1.7
+  origversion: 2.1.7-1
+  status: newest
+  summary: Discovery server for Syncthing
+  licenses:
+    - MPL-2.0
+- repo: arch
+  subrepo: extra
+  srcname: syncthing
   binname: syncthing
   visiblename: syncthing
   version: 2.1.7
@@ -517,17 +591,6 @@
   origversion: 2.1.7-1
   status: newest
   summary: Relay server for Syncthing
-  licenses:
-    - MPL-2.0
-- repo: arch
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-discosrv
-  visiblename: syncthing-discosrv
-  version: 2.1.7
-  origversion: 2.1.7-1
-  status: newest
-  summary: Discovery server for Syncthing
   licenses:
     - MPL-2.0
 - repo: aur
@@ -578,6 +641,25 @@
     - fabiololix@aur
   licenses:
     - MPL-2.0
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: syncthing
+  binnames:
+    - golang-github-syncthing-syncthing-dev
+    - syncthing
+    - syncthing-relaysrv
+    - syncthing-discosrv
+  visiblename: syncthing
+  version: 1.29.5
+  origversion: 1.29.5~ds1-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - aviau@debian.org
+    - creekorful@debian.org
+    - felix@debian.org
+  categories:
+    - utils
 - repo: artix
   subrepo: world
   srcname: syncthing
@@ -700,17 +782,6 @@
   summary: Continuous file synchronization program (relay server) (documentation)
   licenses:
     - MPL-2.0
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-discosrv
-  visiblename: syncthing-discosrv
-  version: 2.1.3
-  origversion: 2.1.3-1
-  status: outdated
-  summary: Discovery server for Syncthing
-  licenses:
-    - MPL-2.0
 - repo: chimera
   subrepo: user
   srcname: syncthing
@@ -729,6 +800,15 @@
   origversion: null
   status: newest
   summary: Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+- repo: pclinuxos
+  srcname: syncthing
+  visiblename: syncthing
+  version: 2.1.7
+  origversion: 2.1.7-1pclos2026
+  status: newest
+  summary: Continuous file synchronization program across devices
+  categories:
+    - File tools
 - repo: chromebrew
   srcname: syncthing
   visiblename: syncthing
@@ -832,28 +912,6 @@
     - felix@debian.org
   categories:
     - utils
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing
-  visiblename: syncthing
-  version: 2.1.6
-  origversion: 2.1.6-1
-  status: outdated
-  summary: Open Source Continuous Replication / Cluster Synchronization Thing
-  licenses:
-    - MPL-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-relaysrv
-  visiblename: syncthing-relaysrv
-  version: 2.1.6
-  origversion: 2.1.6-1
-  status: outdated
-  summary: Relay server for Syncthing
-  licenses:
-    - MPL-2.0
 - repo: epel_10
   srcname: syncthing
   binnames:
@@ -995,28 +1053,6 @@
     - MPL-2.0 AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND OFL-1.1 AND (Apache-2.0 OR MIT) AND (MIT OR Unlicense)
   categories:
     - Unspecified
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-discosrv
-  visiblename: syncthing-discosrv
-  version: 2.1.6
-  origversion: 2.1.6-1
-  status: outdated
-  summary: Discovery server for Syncthing
-  licenses:
-    - MPL-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-relaysrv
-  visiblename: syncthing-relaysrv
-  version: 2.1.7
-  origversion: 2.1.7-1
-  status: newest
-  summary: Relay server for Syncthing
-  licenses:
-    - MPL-2.0
 - repo: fedora_42
   subrepo: updates
   srcname: syncthing
@@ -1047,6 +1083,18 @@
     - MPL-2.0 AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND OFL-1.1 AND (Apache-2.0 OR MIT) AND (MIT OR Unlicense)
   categories:
     - Unspecified
+- repo: nix_stable_24_05
+  srcname: syncthing
+  visiblename: syncthing
+  version: 1.27.7
+  origversion: null
+  status: outdated
+  summary: Open Source Continuous File Synchronization
+  maintainers:
+    - ioannis.koutras@gmail.com
+    - peter@hoeg.com
+  licenses:
+    - MPL-2.0
 - repo: fedora_43
   subrepo: updates
   srcname: syncthing
@@ -1187,6 +1235,18 @@
     - Unlicense
   categories:
     - net-p2p
+- repo: nix_stable_24_05
+  srcname: syncthing-discovery
+  visiblename: syncthing-discovery
+  version: 1.27.7
+  origversion: null
+  status: outdated
+  summary: Open Source Continuous File Synchronization
+  maintainers:
+    - ioannis.koutras@gmail.com
+    - peter@hoeg.com
+  licenses:
+    - MPL-2.0
 - repo: gentoo
   srcname: net-p2p/syncthing
   visiblename: net-p2p/syncthing
@@ -1317,17 +1377,6 @@
     - Unlicense
   categories:
     - net-p2p
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-discosrv
-  visiblename: syncthing-discosrv
-  version: 2.1.7
-  origversion: 2.1.7-1
-  status: newest
-  summary: Discovery server for Syncthing
-  licenses:
-    - MPL-2.0
 - repo: liguros_stable
   srcname: net-p2p/syncthing
   visiblename: net-p2p/syncthing
@@ -1487,58 +1536,56 @@
   srcname: syncthing
   binname: syncthing
   visiblename: syncthing
-  version: 2.1.3
-  origversion: 2.1.3-1
+  version: 1.24.0
+  origversion: 1.24.0-1
   status: outdated
   summary: Open Source Continuous Replication / Cluster Synchronization Thing
   licenses:
-    - MPL-2.0
+    - MPL
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing-discosrv
+  visiblename: syncthing-discosrv
+  version: 1.24.0
+  origversion: 1.24.0-1
+  status: outdated
+  summary: Discovery server for Syncthing
+  licenses:
+    - MPL
 - repo: manjaro_stable
   subrepo: extra
   srcname: syncthing
   binname: syncthing-relaysrv
   visiblename: syncthing-relaysrv
-  version: 2.1.3
-  origversion: 2.1.3-1
+  version: 1.24.0
+  origversion: 1.24.0-1
   status: outdated
   summary: Relay server for Syncthing
   licenses:
-    - MPL-2.0
-- repo: manjaro_unstable
+    - MPL
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing-discosrv
+  visiblename: syncthing-discosrv
+  version: 1.24.0
+  origversion: 1.24.0-1
+  status: outdated
+  summary: Discovery server for Syncthing
+  licenses:
+    - MPL
+- repo: manjaro_testing
   subrepo: extra
   srcname: syncthing
   binname: syncthing
   visiblename: syncthing
-  version: 2.1.7
-  origversion: 2.1.7-1
-  status: newest
+  version: 1.24.0
+  origversion: 1.24.0-1
+  status: outdated
   summary: Open Source Continuous Replication / Cluster Synchronization Thing
   licenses:
-    - MPL-2.0
-- repo: nix_stable_24_05
-  srcname: syncthing
-  visiblename: syncthing
-  version: 1.27.7
-  origversion: null
-  status: outdated
-  summary: Open Source Continuous File Synchronization
-  maintainers:
-    - ioannis.koutras@gmail.com
-    - peter@hoeg.com
-  licenses:
-    - MPL-2.0
-- repo: nix_stable_24_05
-  srcname: syncthing-discovery
-  visiblename: syncthing-discovery
-  version: 1.27.7
-  origversion: null
-  status: outdated
-  summary: Open Source Continuous File Synchronization
-  maintainers:
-    - ioannis.koutras@gmail.com
-    - peter@hoeg.com
-  licenses:
-    - MPL-2.0
+    - MPL
 - repo: nix_stable_24_05
   srcname: syncthing-relay
   visiblename: syncthing-relay
@@ -1662,51 +1709,55 @@
 - repo: nix_stable_26_05
   srcname: syncthing
   visiblename: syncthing
-  version: 2.1.3
-  origversion: null
-  status: outdated
-  summary: Open Source Continuous File Synchronization
-  maintainers:
-    - ioannis.koutras@gmail.com
-    - peter@hoeg.com
-    - zain@zkergaye.me
-  licenses:
-    - MPL-2.0
-- repo: parabola
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing-relaysrv
-  visiblename: syncthing-relaysrv
   version: 2.1.7
-  origversion: 2.1.7-1
+  origversion: null
   status: newest
-  summary: Relay server for Syncthing
+  summary: Open Source Continuous File Synchronization
+  maintainers:
+    - ioannis.koutras@gmail.com
+    - peter@hoeg.com
+    - zain@zkergaye.me
+    - nivalux@github
   licenses:
     - MPL-2.0
 - repo: nix_stable_26_05
   srcname: syncthing-discovery
   visiblename: syncthing-discovery
-  version: 2.1.3
+  version: 2.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Open Source Continuous File Synchronization
   maintainers:
     - ioannis.koutras@gmail.com
     - peter@hoeg.com
     - zain@zkergaye.me
+    - nivalux@github
   licenses:
     - MPL-2.0
+- repo: opensuse_leap_15_5
+  subrepo: updates/backports
+  srcname: syncthing
+  visiblename: syncthing
+  version: 1.27.3
+  origversion: 1.27.3-bp155.2.6.1
+  status: outdated
+  summary: Continuous File Synchronisation
+  licenses:
+    - MPL-2.0
+  categories:
+    - Productivity/Networking/File-Sharing
 - repo: nix_stable_26_05
   srcname: syncthing-relay
   visiblename: syncthing-relay
-  version: 2.1.3
+  version: 2.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Open Source Continuous File Synchronization
   maintainers:
     - ioannis.koutras@gmail.com
     - peter@hoeg.com
     - zain@zkergaye.me
+    - nivalux@github
   licenses:
     - MPL-2.0
 - repo: nix_unstable
@@ -1829,17 +1880,6 @@
     - MPL
   categories:
     - Filesystem
-- repo: parabola
-  subrepo: extra
-  srcname: syncthing
-  binname: syncthing
-  visiblename: syncthing
-  version: 2.1.7
-  origversion: 2.1.7-1
-  status: newest
-  summary: Open Source Continuous Replication / Cluster Synchronization Thing
-  licenses:
-    - MPL-2.0
 - repo: opensuse_leap_15_5
   subrepo: updates/backports
   srcname: syncthing
@@ -1847,18 +1887,6 @@
   version: 1.23.5
   origversion: 1.23.5-bp155.2.3.1
   status: legacy
-  summary: Continuous File Synchronisation
-  licenses:
-    - MPL-2.0
-  categories:
-    - Productivity/Networking/File-Sharing
-- repo: opensuse_leap_15_5
-  subrepo: updates/backports
-  srcname: syncthing
-  visiblename: syncthing
-  version: 1.27.3
-  origversion: 1.27.3-bp155.2.6.1
-  status: outdated
   summary: Continuous File Synchronisation
   licenses:
     - MPL-2.0
@@ -1997,6 +2025,28 @@
 - repo: parabola
   subrepo: extra
   srcname: syncthing
+  binname: syncthing-relaysrv
+  visiblename: syncthing-relaysrv
+  version: 2.1.7
+  origversion: 2.1.7-1
+  status: newest
+  summary: Relay server for Syncthing
+  licenses:
+    - MPL-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: syncthing
+  binname: syncthing
+  visiblename: syncthing
+  version: 2.1.7
+  origversion: 2.1.7-1
+  status: newest
+  summary: Open Source Continuous Replication / Cluster Synchronization Thing
+  licenses:
+    - MPL-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: syncthing
   binname: syncthing-discosrv
   visiblename: syncthing-discosrv
   version: 2.1.7
@@ -2005,53 +2055,6 @@
   summary: Discovery server for Syncthing
   licenses:
     - MPL-2.0
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: syncthing
-  binnames:
-    - golang-github-syncthing-syncthing-dev
-    - syncthing
-    - syncthing-relaysrv
-    - syncthing-discosrv
-  visiblename: syncthing
-  version: 1.29.5
-  origversion: 1.29.5~ds1-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - aviau@debian.org
-    - creekorful@debian.org
-    - felix@debian.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot/main
-  srcname: syncthing
-  binnames:
-    - golang-github-syncthing-syncthing-dev
-    - syncthing
-    - syncthing-relaysrv
-    - syncthing-discosrv
-  visiblename: syncthing
-  version: 1.29.5
-  origversion: 1.29.5~ds1-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - aviau@debian.org
-    - creekorful@debian.org
-    - felix@debian.org
-  categories:
-    - utils
-- repo: pclinuxos
-  srcname: syncthing
-  visiblename: syncthing
-  version: 2.1.7
-  origversion: 2.1.7-1pclos2026
-  status: newest
-  summary: Continuous file synchronization program across devices
-  categories:
-    - File tools
 - repo: pkgsrc_2026_2
   srcname: net/syncthing
   binname: syncthing
