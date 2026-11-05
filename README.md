@@ -30,7 +30,7 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 90,053 · **Forks**: 5,576 · **Open issues**: 5,997 · **Contributors**: 356
+- **Stars**: 90,103 · **Forks**: 5,578 · **Open issues**: 5,997 · **Contributors**: 356
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 6 | 10 | 2 | 11 | 14 | 14 |
-| last60d | 2026-09-05 | 10 | 17 | 3 | 27 | 23 | 32 |
-| 90d | 2026-08-06 | 12 | 22 | 3 | 39 | 31 | 46 |
-| last180d | 2026-05-08 | 25 | 82 | 7 | 88 | 42 | 129 |
-| 360d | 2025-11-09 | 38 | 136 | 11 | 181 | 64 | 232 |
-| last720d | 2024-11-14 | 100 | 374 | 16 | 396 | 107 | 670 |
+| 30d | 2026-10-06 | 6 | 10 | 2 | 9 | 14 | 14 |
+| last60d | 2026-09-06 | 10 | 17 | 3 | 27 | 22 | 32 |
+| 90d | 2026-08-07 | 12 | 22 | 3 | 39 | 31 | 46 |
+| last180d | 2026-05-09 | 25 | 80 | 7 | 88 | 42 | 129 |
+| 360d | 2025-11-10 | 38 | 136 | 11 | 180 | 64 | 232 |
+| last720d | 2024-11-15 | 100 | 373 | 16 | 395 | 107 | 669 |
 
 ## Release assets
 
@@ -105,25 +105,6 @@ Lowest-scoring checks:
 | [syncthing_2.1.7_armel.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_armel.deb) | 12.8 MiB | `other` |
 | [syncthing_2.1.7_armhf.deb](https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_armhf.deb) | 12.8 MiB | `runtime/deb/armhf` |
 
-## Distribution status
-
-Reported by **202** distros on [repology.org](https://repology.org/project/syncthing). **57** are ✅ on the latest upstream release, **122** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.29.5` | ⚠️ outdated |
-| Debian 14 | `1.29.5` | ⚠️ outdated |
-| Debian 13 | `1.29.5` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.29.5` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.27.2` | ⚠️ outdated |
-| Arch | `2.1.7` | ✅ latest |
-| Homebrew | `2.1.7` | ✅ latest |
-| Fedora rawhide | `2.1.6` | ⚠️ outdated |
-| Nix unstable | `2.1.7` | ✅ latest |
-| Void | `2.1.7` | ✅ latest |
-| Alpine edge | `2.1.7` | ✅ latest |
-| openSUSE Tumbleweed | `2.1.7` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `syncthing` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -133,4 +114,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:30:53Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:55:51Z._
