@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 90,421 · **Forks**: 5,595 · **Open issues**: 6,001 · **Contributors**: 356
+- **Stars**: 90,446 · **Forks**: 5,596 · **Open issues**: 6,003 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 490 · **Merged PRs**: 2948 · **Open PRs**: 17 · **Closed issues**: 5616 · **Open issues**: 385 · **Commits**: 8224
+- **Releases**: 490 · **Merged PRs**: 2948 · **Open PRs**: 17 · **Closed issues**: 5617 · **Open issues**: 386 · **Commits**: 8224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 4 | 3 | 9 | 14 | 12 |
-| last60d | 2026-09-15 | 9 | 15 | 4 | 23 | 24 | 27 |
-| 90d | 2026-08-16 | 12 | 21 | 4 | 34 | 31 | 42 |
-| last180d | 2026-05-18 | 23 | 76 | 7 | 84 | 45 | 124 |
-| 360d | 2025-11-19 | 38 | 134 | 11 | 176 | 66 | 229 |
-| last720d | 2024-11-24 | 100 | 372 | 16 | 392 | 110 | 666 |
+| 30d | 2026-10-16 | 3 | 4 | 3 | 9 | 15 | 12 |
+| last60d | 2026-09-16 | 8 | 15 | 4 | 21 | 25 | 27 |
+| 90d | 2026-08-17 | 12 | 21 | 4 | 34 | 32 | 42 |
+| last180d | 2026-05-19 | 23 | 76 | 7 | 83 | 46 | 124 |
+| 360d | 2025-11-20 | 38 | 134 | 11 | 176 | 67 | 229 |
+| last720d | 2024-11-25 | 100 | 371 | 16 | 392 | 110 | 664 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **204** distros on [repology.org](https://repology.org/project/syncthing). **62** are ✅ on the latest upstream release, **119** are ⚠️ on an older version.
+Reported by **203** distros on [repology.org](https://repology.org/project/syncthing). **65** are ✅ on the latest upstream release, **115** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:40:37Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:37:22Z._
