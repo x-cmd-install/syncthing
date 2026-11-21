@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 90,621 · **Forks**: 5,617 · **Open issues**: 6,004 · **Contributors**: 356
+- **Stars**: 90,652 · **Forks**: 5,597 · **Open issues**: 6,005 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 490 · **Merged PRs**: 2949 · **Open PRs**: 17 · **Closed issues**: 5617 · **Open issues**: 387 · **Commits**: 8226
+- **Releases**: 490 · **Merged PRs**: 2949 · **Open PRs**: 17 · **Closed issues**: 5617 · **Open issues**: 388 · **Commits**: 8226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 2 | 2 | 5 | 14 | 7 |
-| last60d | 2026-09-21 | 8 | 14 | 4 | 19 | 25 | 26 |
-| 90d | 2026-08-22 | 11 | 20 | 4 | 32 | 32 | 39 |
-| last180d | 2026-05-24 | 23 | 73 | 7 | 83 | 46 | 109 |
-| 360d | 2025-11-25 | 38 | 134 | 11 | 171 | 67 | 229 |
-| last720d | 2024-11-30 | 100 | 370 | 16 | 387 | 110 | 664 |
+| 30d | 2026-10-22 | 0 | 2 | 2 | 4 | 14 | 7 |
+| last60d | 2026-09-22 | 8 | 14 | 4 | 18 | 26 | 26 |
+| 90d | 2026-08-23 | 11 | 19 | 4 | 32 | 33 | 39 |
+| last180d | 2026-05-25 | 23 | 71 | 7 | 81 | 47 | 109 |
+| 360d | 2025-11-26 | 37 | 134 | 11 | 170 | 68 | 229 |
+| last720d | 2024-12-01 | 100 | 369 | 16 | 386 | 111 | 663 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **205** distros on [repology.org](https://repology.org/project/syncthing). **66** are ✅ on the latest upstream release, **115** are ⚠️ on an older version.
+Reported by **203** distros on [repology.org](https://repology.org/project/syncthing). **66** are ✅ on the latest upstream release, **113** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -117,7 +117,7 @@ Reported by **205** distros on [repology.org](https://repology.org/project/synct
 | Ubuntu 26.04 LTS | `1.29.5` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.27.2` | ⚠️ outdated |
 | Arch | `2.1.7` | ✅ latest |
-| Homebrew | `2.1.7` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.1.7` | ✅ latest |
 | Nix unstable | `2.1.7` | ✅ latest |
 | Void | `2.1.7` | ✅ latest |
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:50:03Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:12:03Z._
