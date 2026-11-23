@@ -14,13 +14,13 @@ x install syncthing
 
 ## Code insight
 
-Total: **182,159** lines of code across **671** files in the top 5 languages.
+Total: **182,168** lines of code across **671** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 93,586 | 11,627 | 16,251 | 548 |
 | JavaScript | 40,162 | 22,378 | 7,584 | 37 |
-| Json | 27,109 | 0 | 0 | 58 |
+| Json | 27,118 | 0 | 0 | 58 |
 | Css | 10,614 | 182 | 325 | 13 |
 | Svg | 3,557 | 7 | 0 | 15 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.7` (2026-10-21)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 90,695 · **Forks**: 5,594 · **Open issues**: 6,006 · **Contributors**: 357
+- **Stars**: 90,729 · **Forks**: 5,599 · **Open issues**: 6,006 · **Contributors**: 357
 
 ## Totals (cumulative)
 
-- **Releases**: 490 · **Merged PRs**: 2950 · **Open PRs**: 17 · **Closed issues**: 5617 · **Open issues**: 389 · **Commits**: 8227
+- **Releases**: 490 · **Merged PRs**: 2950 · **Open PRs**: 17 · **Closed issues**: 5617 · **Open issues**: 389 · **Commits**: 8228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 3 | 2 | 2 | 15 | 8 |
-| last60d | 2026-09-23 | 7 | 15 | 4 | 18 | 26 | 27 |
-| 90d | 2026-08-24 | 11 | 20 | 4 | 32 | 33 | 40 |
-| last180d | 2026-05-26 | 22 | 72 | 7 | 81 | 48 | 110 |
-| 360d | 2025-11-27 | 37 | 135 | 11 | 170 | 69 | 230 |
-| last720d | 2024-12-02 | 100 | 370 | 16 | 385 | 112 | 662 |
+| 30d | 2026-10-24 | 0 | 3 | 2 | 2 | 15 | 6 |
+| last60d | 2026-09-24 | 7 | 15 | 4 | 18 | 25 | 27 |
+| 90d | 2026-08-25 | 10 | 20 | 4 | 32 | 32 | 39 |
+| last180d | 2026-05-27 | 22 | 72 | 7 | 78 | 48 | 109 |
+| 360d | 2025-11-28 | 37 | 135 | 11 | 169 | 68 | 229 |
+| last720d | 2024-12-03 | 100 | 369 | 16 | 385 | 112 | 662 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for syncthing lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:58:16Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:52:00Z._
